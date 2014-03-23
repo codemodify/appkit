@@ -1,0 +1,15 @@
+
+.backgroundImageAtTopLeft           { background-position: top-left;                                }
+.backgroundImageAtTopCenter         { background-position: top center;                              }
+.backgroundImageAtTopRight          { background-position: top right;                               }
+.backgroundImageAtCenterLeft        { background-position: center left;                             }
+.backgroundImageAtCenterCenter      { background-position: center center;                           }
+.backgroundImageAtCenterRight       { background-position: center right;                            }
+.backgroundImageAtBottomLeft        { background-position: bottom left;                             }
+.backgroundImageAtBottomCenter      { background-position: bottom center;                           }
+.backgroundImageAtBottomRight       { background-position: bottom right;                            }
+
+.backgroundImageRepeatOnXonly       { background-repeat: repeat-x;                                  }
+.backgroundImageRepeatOnYonly       { background-repeat: repeat-y;                                  }
+.backgroundImageRepeatOnXandY       { background-repeat: repeat;                                    }
+.backgroundImageNoRepeat            { background-repeat: no-repeat;                                 }

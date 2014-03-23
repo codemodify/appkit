@@ -1,0 +1,118 @@
+
+@import url( "relative-space.css"       );
+@import url( "margin.css"               );
+@import url( "padding.css"              );
+
+.layoutPutNoObjectsAtLeft           { clear: left;                                                  }
+.layoutPutNoObjectsAtRight          { clear: right;                                                 }
+.layoutPutNoObjectsAtLeftAndRight   { clear: both;                                                  }
+
+.layoutRenderNone                   { display: none;                                                }
+.layoutRenderAsInline               { display: inline;                                              }
+.layoutRenderAsBlock                { display: block;                                               }
+.layoutRenderAsListItem             { display: list-item;                                           }
+.layoutRenderAsRunIn                { display: run-in;                                              }
+.layoutRenderAsCompact              { display: compact;                                             }
+.layoutRenderAsMarker               { display: marker;                                              }
+.layoutRenderAsTable                { display: table;                                               }
+.layoutRenderAsInlineTable          { display: inline-table;                                        }
+.layoutRenderAsTableRowGroup        { display: table-row-group;                                     }
+.layoutRenderAsTableHeaderGroup     { display: table-header-group;                                  }
+.layoutRenderAsTableFooterGroup     { display: table-footer-group;                                  }
+.layoutRenderAsTableRow             { display: table-row;                                           }
+.layoutRenderAsTableColumnGroup     { display: table-column-group;                                  }
+.layoutRenderAsTableColumn          { display: table-column;                                        }
+.layoutRenderAsTableCell            { display: table-cell;                                          }
+.layoutRenderAsTableCaption         { display: table-caption;                                       }
+
+.layoutStickToLeft                  { float: left;                                                  }
+.layoutStickToRight                 { float: right;                                                 }
+
+.layoutPositionAsStatic             { position: static;                                             }
+.layoutPositionAsRelative           { position: relative;                                           }
+.layoutPositionAsAbsolute           { position: absolute;                                           }
+.layoutPositionAsFixed              { position: fixed;                                              }
+
+.layoutVisibilityTrue               { visibility: visible;                                          }
+.layoutVisibilityFalse              { visibility: hidden;                                           }
+.layoutVisibilityCollapsed          { visibility: collapse;                                         }
+
+.layoutOverflowVisible              { overflow: visible;                                            }
+.layoutOverflowHidden               { overflow: hidden;                                             }
+.layoutOverflowScroll               { overflow: scroll;                                             }
+.layoutOverflowAuto                 { overflow: auto;                                               }
+
+
+
+/***************************************************************************************************
+*   Vertical Align
+***************************************************************************************************/
+.layoutVerticalAlignBaseline        { vertical-align: baseline;                                     }
+.layoutVerticalAlignSub             { vertical-align: sub;                                          }
+.layoutVerticalAlignSuper           { vertical-align: super;                                        }
+.layoutVerticalAlignTop             { vertical-align: top;                                          }
+.layoutVerticalAlignTextTop         { vertical-align: text-top;                                     }
+.layoutVerticalAlignMiddle          { vertical-align: middle;                                       }
+.layoutVerticalAlignbottom          { vertical-align: bottom;                                       }
+.layoutVerticalAlignTextBottom      { vertical-align: text-bottom;                                  }
+.layoutVerticalAlignMiddle          { vertical-align: middle;                                       }
+
+.layoutVerticalAlign0px             { vertical-align: 0px;                                          }
+.layoutVerticalAlign1px             { vertical-align: 1px;                                          }
+.layoutVerticalAlign2px             { vertical-align: 2px;                                          }
+.layoutVerticalAlign3px             { vertical-align: 3px;                                          }
+.layoutVerticalAlign4px             { vertical-align: 4px;                                          }
+.layoutVerticalAlign5px             { vertical-align: 5px;                                          }
+.layoutVerticalAlign6px             { vertical-align: 6px;                                          }
+.layoutVerticalAlign7px             { vertical-align: 7px;                                          }
+.layoutVerticalAlign8px             { vertical-align: 8px;                                          }
+.layoutVerticalAlign9px             { vertical-align: 9px;                                          }
+.layoutVerticalAlign10px            { vertical-align: 10px;                                         }
+.layoutVerticalAlign20px            { vertical-align: 20px;                                         }
+.layoutVerticalAlign30px            { vertical-align: 30px;                                         }
+.layoutVerticalAlign40px            { vertical-align: 40px;                                         }
+.layoutVerticalAlign50px            { vertical-align: 50px;                                         }
+.layoutVerticalAlign60px            { vertical-align: 60px;                                         }
+.layoutVerticalAlign70px            { vertical-align: 70px;                                         }
+.layoutVerticalAlign80px            { vertical-align: 80px;                                         }
+.layoutVerticalAlign90px            { vertical-align: 90px;                                         }
+.layoutVerticalAlign100px           { vertical-align: 100px;                                        }
+
+.layoutVerticalAlign5p              { vertical-align: 5%;                                           }
+.layoutVerticalAlign10p             { vertical-align: 10%;                                          }
+.layoutVerticalAlign15p             { vertical-align: 15%;                                          }
+.layoutVerticalAlign20p             { vertical-align: 20%;                                          }
+.layoutVerticalAlign25p             { vertical-align: 25%;                                          }
+.layoutVerticalAlign30p             { vertical-align: 30%;                                          }
+.layoutVerticalAlign35p             { vertical-align: 35%;                                          }
+.layoutVerticalAlign40p             { vertical-align: 40%;                                          }
+.layoutVerticalAlign45p             { vertical-align: 45%;                                          }
+.layoutVerticalAlign50p             { vertical-align: 50%;                                          }
+.layoutVerticalAlign55p             { vertical-align: 55%;                                          }
+.layoutVerticalAlign60p             { vertical-align: 60%;                                          }
+.layoutVerticalAlign65p             { vertical-align: 65%;                                          }
+.layoutVerticalAlign70p             { vertical-align: 70%;                                          }
+.layoutVerticalAlign75p             { vertical-align: 75%;                                          }
+.layoutVerticalAlign80p             { vertical-align: 80%;                                          }
+.layoutVerticalAlign85p             { vertical-align: 85%;                                          }
+.layoutVerticalAlign90p             { vertical-align: 90%;                                          }
+.layoutVerticalAlign95p             { vertical-align: 95%;                                          }
+.layoutVerticalAlign100p            { vertical-align: 100%;                                         }
+
+
+
+/***************************************************************************************************
+*   Z Index
+***************************************************************************************************/
+.layoutZIndexAuto                   { z-index: auto;                                                }
+.layoutZIndexLayer0                 { z-index: 0;                                                   }
+.layoutZIndexLayer1                 { z-index: 1;                                                   }
+.layoutZIndexLayer2                 { z-index: 2;                                                   }
+.layoutZIndexLayer3                 { z-index: 3;                                                   }
+.layoutZIndexLayer4                 { z-index: 4;                                                   }
+.layoutZIndexLayer5                 { z-index: 5;                                                   }
+.layoutZIndexLayer6                 { z-index: 6;                                                   }
+.layoutZIndexLayer7                 { z-index: 7;                                                   }
+.layoutZIndexLayer8                 { z-index: 8;                                                   }
+.layoutZIndexLayer9                 { z-index: 9;                                                   }
+

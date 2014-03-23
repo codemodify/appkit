@@ -1,0 +1,191 @@
+
+/***************************************************************************************************
+*   Alignment Top
+***************************************************************************************************/
+.layoutTopAuto                      { top: auto;                                                    }
+
+.layoutTop0px                       { top: 0px;                                                     }
+.layoutTop1px                       { top: 1px;                                                     }
+.layoutTop2px                       { top: 2px;                                                     }
+.layoutTop3px                       { top: 3px;                                                     }
+.layoutTop4px                       { top: 4px;                                                     }
+.layoutTop5px                       { top: 5px;                                                     }
+.layoutTop6px                       { top: 6px;                                                     }
+.layoutTop7px                       { top: 7px;                                                     }
+.layoutTop8px                       { top: 8px;                                                     }
+.layoutTop9px                       { top: 9px;                                                     }
+.layoutTop10px                      { top: 10px;                                                    }
+.layoutTop20px                      { top: 20px;                                                    }
+.layoutTop30px                      { top: 30px;                                                    }
+.layoutTop40px                      { top: 40px;                                                    }
+.layoutTop50px                      { top: 50px;                                                    }
+.layoutTop60px                      { top: 60px;                                                    }
+.layoutTop70px                      { top: 70px;                                                    }
+.layoutTop80px                      { top: 80px;                                                    }
+.layoutTop90px                      { top: 90px;                                                    }
+.layoutTop100px                     { top: 100px;                                                   }
+
+.layoutTop5p                        { top: 5%;                                                      }
+.layoutTop10p                       { top: 10%;                                                     }
+.layoutTop15p                       { top: 15%;                                                     }
+.layoutTop20p                       { top: 20%;                                                     }
+.layoutTop25p                       { top: 25%;                                                     }
+.layoutTop30p                       { top: 30%;                                                     }
+.layoutTop35p                       { top: 35%;                                                     }
+.layoutTop40p                       { top: 40%;                                                     }
+.layoutTop45p                       { top: 45%;                                                     }
+.layoutTop50p                       { top: 50%;                                                     }
+.layoutTop55p                       { top: 55%;                                                     }
+.layoutTop60p                       { top: 60%;                                                     }
+.layoutTop65p                       { top: 65%;                                                     }
+.layoutTop70p                       { top: 70%;                                                     }
+.layoutTop75p                       { top: 75%;                                                     }
+.layoutTop80p                       { top: 80%;                                                     }
+.layoutTop85p                       { top: 85%;                                                     }
+.layoutTop90p                       { top: 90%;                                                     }
+.layoutTop95p                       { top: 95%;                                                     }
+.layoutTop100p                      { top: 100%;                                                    }
+
+
+/***************************************************************************************************
+*   Alignment Bottom
+***************************************************************************************************/
+.layoutBottomAuto                   { bottom: auto;                                                 }
+
+.layoutBottom0px                    { bottom: 0px;                                                  }
+.layoutBottom1px                    { bottom: 1px;                                                  }
+.layoutBottom2px                    { bottom: 2px;                                                  }
+.layoutBottom3px                    { bottom: 3px;                                                  }
+.layoutBottom4px                    { bottom: 4px;                                                  }
+.layoutBottom5px                    { bottom: 5px;                                                  }
+.layoutBottom6px                    { bottom: 6px;                                                  }
+.layoutBottom7px                    { bottom: 7px;                                                  }
+.layoutBottom8px                    { bottom: 8px;                                                  }
+.layoutBottom9px                    { bottom: 9px;                                                  }
+.layoutBottom10px                   { bottom: 10px;                                                 }
+.layoutBottom20px                   { bottom: 20px;                                                 }
+.layoutBottom30px                   { bottom: 30px;                                                 }
+.layoutBottom40px                   { bottom: 40px;                                                 }
+.layoutBottom50px                   { bottom: 50px;                                                 }
+.layoutBottom60px                   { bottom: 60px;                                                 }
+.layoutBottom70px                   { bottom: 70px;                                                 }
+.layoutBottom80px                   { bottom: 80px;                                                 }
+.layoutBottom90px                   { bottom: 90px;                                                 }
+.layoutBottom100px                  { bottom: 100px;                                                }
+
+.layoutBottom5p                     { bottom: 5%;                                                   }
+.layoutBottom10p                    { bottom: 10%;                                                  }
+.layoutBottom15p                    { bottom: 15%;                                                  }
+.layoutBottom20p                    { bottom: 20%;                                                  }
+.layoutBottom25p                    { bottom: 25%;                                                  }
+.layoutBottom30p                    { bottom: 30%;                                                  }
+.layoutBottom35p                    { bottom: 35%;                                                  }
+.layoutBottom40p                    { bottom: 40%;                                                  }
+.layoutBottom45p                    { bottom: 45%;                                                  }
+.layoutBottom50p                    { bottom: 50%;                                                  }
+.layoutBottom55p                    { bottom: 55%;                                                  }
+.layoutBottom60p                    { bottom: 60%;                                                  }
+.layoutBottom65p                    { bottom: 65%;                                                  }
+.layoutBottom70p                    { bottom: 70%;                                                  }
+.layoutBottom75p                    { bottom: 75%;                                                  }
+.layoutBottom80p                    { bottom: 80%;                                                  }
+.layoutBottom85p                    { bottom: 85%;                                                  }
+.layoutBottom90p                    { bottom: 90%;                                                  }
+.layoutBottom95p                    { bottom: 95%;                                                  }
+.layoutBottom100p                   { bottom: 100%;                                                 }
+
+
+/***************************************************************************************************
+*   Alignment Left
+***************************************************************************************************/
+.layoutLeftAuto                     { left: auto;                                                   }
+
+.layoutLeft0px                      { left: 0px;                                                    }
+.layoutLeft1px                      { left: 1px;                                                    }
+.layoutLeft2px                      { left: 2px;                                                    }
+.layoutLeft3px                      { left: 3px;                                                    }
+.layoutLeft4px                      { left: 4px;                                                    }
+.layoutLeft5px                      { left: 5px;                                                    }
+.layoutLeft6px                      { left: 6px;                                                    }
+.layoutLeft7px                      { left: 7px;                                                    }
+.layoutLeft8px                      { left: 8px;                                                    }
+.layoutLeft9px                      { left: 9px;                                                    }
+.layoutLeft10px                     { left: 10px;                                                   }
+.layoutLeft20px                     { left: 20px;                                                   }
+.layoutLeft30px                     { left: 30px;                                                   }
+.layoutLeft40px                     { left: 40px;                                                   }
+.layoutLeft50px                     { left: 50px;                                                   }
+.layoutLeft60px                     { left: 60px;                                                   }
+.layoutLeft70px                     { left: 70px;                                                   }
+.layoutLeft80px                     { left: 80px;                                                   }
+.layoutLeft90px                     { left: 90px;                                                   }
+.layoutLeft100px                    { left: 100px;                                                  }
+
+.layoutLeft5p                       { left: 5%;                                                     }
+.layoutLeft10p                      { left: 10%;                                                    }
+.layoutLeft15p                      { left: 15%;                                                    }
+.layoutLeft20p                      { left: 20%;                                                    }
+.layoutLeft25p                      { left: 25%;                                                    }
+.layoutLeft30p                      { left: 30%;                                                    }
+.layoutLeft35p                      { left: 35%;                                                    }
+.layoutLeft40p                      { left: 40%;                                                    }
+.layoutLeft45p                      { left: 45%;                                                    }
+.layoutLeft50p                      { left: 50%;                                                    }
+.layoutLeft55p                      { left: 55%;                                                    }
+.layoutLeft60p                      { left: 60%;                                                    }
+.layoutLeft65p                      { left: 65%;                                                    }
+.layoutLeft70p                      { left: 70%;                                                    }
+.layoutLeft75p                      { left: 75%;                                                    }
+.layoutLeft80p                      { left: 80%;                                                    }
+.layoutLeft85p                      { left: 85%;                                                    }
+.layoutLeft90p                      { left: 90%;                                                    }
+.layoutLeft95p                      { left: 95%;                                                    }
+.layoutLeft100p                     { left: 100%;                                                   }
+
+
+/***************************************************************************************************
+*   Alignment Right
+***************************************************************************************************/
+.layoutRightAuto                    { right: auto;                                                  }
+
+.layoutRight0px                     { right: 0px;                                                   }
+.layoutRight1px                     { right: 1px;                                                   }
+.layoutRight2px                     { right: 2px;                                                   }
+.layoutRight3px                     { right: 3px;                                                   }
+.layoutRight4px                     { right: 4px;                                                   }
+.layoutRight5px                     { right: 5px;                                                   }
+.layoutRight6px                     { right: 6px;                                                   }
+.layoutRight7px                     { right: 7px;                                                   }
+.layoutRight8px                     { right: 8px;                                                   }
+.layoutRight9px                     { right: 9px;                                                   }
+.layoutRight10px                    { right: 10px;                                                  }
+.layoutRight20px                    { right: 20px;                                                  }
+.layoutRight30px                    { right: 30px;                                                  }
+.layoutRight40px                    { right: 40px;                                                  }
+.layoutRight50px                    { right: 50px;                                                  }
+.layoutRight60px                    { right: 60px;                                                  }
+.layoutRight70px                    { right: 70px;                                                  }
+.layoutRight80px                    { right: 80px;                                                  }
+.layoutRight90px                    { right: 90px;                                                  }
+.layoutRight100px                   { right: 100px;                                                 }
+
+.layoutRight5p                      { right: 5%;                                                    }
+.layoutRight10p                     { right: 10%;                                                   }
+.layoutRight15p                     { right: 15%;                                                   }
+.layoutRight20p                     { right: 20%;                                                   }
+.layoutRight25p                     { right: 25%;                                                   }
+.layoutRight30p                     { right: 30%;                                                   }
+.layoutRight35p                     { right: 35%;                                                   }
+.layoutRight40p                     { right: 40%;                                                   }
+.layoutRight45p                     { right: 45%;                                                   }
+.layoutRight50p                     { right: 50%;                                                   }
+.layoutRight55p                     { right: 55%;                                                   }
+.layoutRight60p                     { right: 60%;                                                   }
+.layoutRight65p                     { right: 65%;                                                   }
+.layoutRight70p                     { right: 70%;                                                   }
+.layoutRight75p                     { right: 75%;                                                   }
+.layoutRight80p                     { right: 80%;                                                   }
+.layoutRight85p                     { right: 85%;                                                   }
+.layoutRight90p                     { right: 90%;                                                   }
+.layoutRight95p                     { right: 95%;                                                   }
+.layoutRight100p                    { right: 100%;                                                  }

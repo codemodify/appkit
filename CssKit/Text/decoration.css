@@ -1,0 +1,63 @@
+
+.textDecorationNone             { text-decoration: none;                                            }
+.textDecorationUnderline        { text-decoration: underline;                                       }
+.textDecorationOverline         { text-decoration: overline;                                        }
+.textDecorationStrike           { text-decoration: line-through;                                    }
+.textDecorationBlink            { text-decoration: blink;                                           }
+
+
+
+/***************************************************************************************************
+*   Indent
+***************************************************************************************************/
+.textDecorationIndent0px        { text-indent: 0px;                                                 }
+.textDecorationIndent1px        { text-indent: 1px;                                                 }
+.textDecorationIndent2px        { text-indent: 2px;                                                 }
+.textDecorationIndent3px        { text-indent: 3px;                                                 }
+.textDecorationIndent4px        { text-indent: 4px;                                                 }
+.textDecorationIndent5px        { text-indent: 5px;                                                 }
+.textDecorationIndent6px        { text-indent: 6px;                                                 }
+.textDecorationIndent7px        { text-indent: 7px;                                                 }
+.textDecorationIndent8px        { text-indent: 8px;                                                 }
+.textDecorationIndent9px        { text-indent: 9px;                                                 }
+.textDecorationIndent10px       { text-indent: 10px;                                                }
+.textDecorationIndent20px       { text-indent: 20px;                                                }
+.textDecorationIndent30px       { text-indent: 30px;                                                }
+.textDecorationIndent40px       { text-indent: 40px;                                                }
+.textDecorationIndent50px       { text-indent: 50px;                                                }
+.textDecorationIndent60px       { text-indent: 60px;                                                }
+.textDecorationIndent70px       { text-indent: 70px;                                                }
+.textDecorationIndent80px       { text-indent: 80px;                                                }
+.textDecorationIndent90px       { text-indent: 90px;                                                }
+.textDecorationIndent100px      { text-indent: 100px;                                               }
+
+.textDecorationIndent5p         { text-indent: 5%;                                                  }
+.textDecorationIndent10p        { text-indent: 10%;                                                 }
+.textDecorationIndent15p        { text-indent: 15%;                                                 }
+.textDecorationIndent20p        { text-indent: 20%;                                                 }
+.textDecorationIndent25p        { text-indent: 25%;                                                 }
+.textDecorationIndent30p        { text-indent: 30%;                                                 }
+.textDecorationIndent35p        { text-indent: 35%;                                                 }
+.textDecorationIndent40p        { text-indent: 40%;                                                 }
+.textDecorationIndent45p        { text-indent: 45%;                                                 }
+.textDecorationIndent50p        { text-indent: 50%;                                                 }
+.textDecorationIndent55p        { text-indent: 55%;                                                 }
+.textDecorationIndent60p        { text-indent: 60%;                                                 }
+.textDecorationIndent65p        { text-indent: 65%;                                                 }
+.textDecorationIndent70p        { text-indent: 70%;                                                 }
+.textDecorationIndent75p        { text-indent: 75%;                                                 }
+.textDecorationIndent80p        { text-indent: 80%;                                                 }
+.textDecorationIndent85p        { text-indent: 85%;                                                 }
+.textDecorationIndent90p        { text-indent: 90%;                                                 }
+.textDecorationIndent95p        { text-indent: 95%;                                                 }
+.textDecorationIndent100p       { text-indent: 100%;                                                }
+
+
+
+/***************************************************************************************************
+*   Transformation
+***************************************************************************************************/
+.textDecorationMakeNone        { text-transform: none;                                              }
+.textDecorationMakeCapital     { text-transform: capitalize;                                        }
+.textDecorationMakeUppercase   { text-transform: uppercase;                                         }
+.textDecorationMakeLowercase   { text-transform: none;                                              }

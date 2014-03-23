@@ -1,0 +1,35 @@
+
+.tableBorderCollapseYes         { border-collapse: collapse;                                        }
+.tableBorderCollapseNo          { border-collapse: separate;                                        }
+
+.tableBorderSpacing0px          { border-spacing: 0px;                                              }
+.tableBorderSpacing1px          { border-spacing: 1px;                                              }
+.tableBorderSpacing2px          { border-spacing: 2px;                                              }
+.tableBorderSpacing3px          { border-spacing: 3px;                                              }
+.tableBorderSpacing4px          { border-spacing: 4px;                                              }
+.tableBorderSpacing5px          { border-spacing: 5px;                                              }
+.tableBorderSpacing6px          { border-spacing: 6px;                                              }
+.tableBorderSpacing7px          { border-spacing: 7px;                                              }
+.tableBorderSpacing8px          { border-spacing: 8px;                                              }
+.tableBorderSpacing9px          { border-spacing: 9px;                                              }
+.tableBorderSpacing10px         { border-spacing: 10px;                                             }
+.tableBorderSpacing20px         { border-spacing: 20px;                                             }
+.tableBorderSpacing30px         { border-spacing: 30px;                                             }
+.tableBorderSpacing40px         { border-spacing: 40px;                                             }
+.tableBorderSpacing50px         { border-spacing: 50px;                                             }
+.tableBorderSpacing60px         { border-spacing: 60px;                                             }
+.tableBorderSpacing70px         { border-spacing: 70px;                                             }
+.tableBorderSpacing80px         { border-spacing: 80px;                                             }
+.tableBorderSpacing90px         { border-spacing: 90px;                                             }
+.tableBorderSpacing100px        { border-spacing: 100px;                                            }
+
+.tableCaptionSideTop            { caption-side: top;                                                }
+.tableCaptionSideBottom         { caption-side: bottom;                                             }
+.tableCaptionSideLeft           { caption-side: left;                                               }
+.tableCaptionSideRight          { caption-side: right;                                              }
+
+.tableShowEmptyCellsYes         { empty-cells: show;                                                }
+.tableShowEmptyCellsNo          { empty-cells: hide;                                                }
+
+.tableLayoutAuto                { table-layout: auto;                                               }
+.tableLayoutFixed               { table-layout: fixed;                                              }

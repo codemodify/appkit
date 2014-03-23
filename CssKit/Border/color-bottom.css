@@ -1,0 +1,165 @@
+
+/*  Red colors                                                                                     */
+.borderBottomColorIndianRed          { border-bottom-color: #CD5C5C;                                }
+.borderBottomColorLightCoral         { border-bottom-color: #F08080;                                }
+.borderBottomColorSalmon             { border-bottom-color: #FA8072;                                }
+.borderBottomColorDarkSalmon         { border-bottom-color: #E9967A;                                }
+.borderBottomColorLightSalmon        { border-bottom-color: #FFA07A;                                }
+.borderBottomColorCrimson            { border-bottom-color: #DC143C;                                }
+.borderBottomColorRed                { border-bottom-color: #FF0000;                                }
+.borderBottomColorFireBrick          { border-bottom-color: #B22222;                                }
+.borderBottomColorDarkRed            { border-bottom-color: #8B0000;                                }
+
+/*  Pink colors                                                                                    */
+.borderBottomColorPink               { border-bottom-color: #FFC0CB;                                }
+.borderBottomColorLightPink          { border-bottom-color: #FFB6C1;                                }
+.borderBottomColorHotPink            { border-bottom-color: #FF69B4;                                }
+.borderBottomColorDeepPink           { border-bottom-color: #FF1493;                                }
+.borderBottomColorMediumVioletRed    { border-bottom-color: #C71585;                                }
+.borderBottomColorPaleVioletRed      { border-bottom-color: #DB7093;                                }
+
+/*  Orange colors                                                                                  */
+.borderBottomColorLightSalmon        { border-bottom-color: #FFA07A;                                }
+.borderBottomColorCoral              { border-bottom-color: #FF7F50;                                }
+.borderBottomColorTomato             { border-bottom-color: #FF6347;                                }
+.borderBottomColorOrangeRed          { border-bottom-color: #FF4500;                                }
+.borderBottomColorDarkOrange         { border-bottom-color: #FF8C00;                                }
+.borderBottomColorOrange             { border-bottom-color: #FFA500;                                }
+
+/*  Yellow colors                                                                                  */
+.borderBottomColorGold               { border-bottom-color: #FFD700;                                }
+.borderBottomColorYellow             { border-bottom-color: #FFFF00;                                }
+.borderBottomColorLightYellow        { border-bottom-color: #FFFFE0;                                }
+.borderBottomColorLemonChiffon       { border-bottom-color: #FFFACD;                                }
+.borderBottomColorLightGoldenrodYellow{border-bottom-color: #FAFAD2;                                }
+.borderBottomColorPapayaWhip         { border-bottom-color: #FFEFD5;                                }
+.borderBottomColorMoccasin           { border-bottom-color: #FFE4B5;                                }
+.borderBottomColorPeachPuff          { border-bottom-color: #FFDAB9;                                }
+.borderBottomColorPaleGoldenrod      { border-bottom-color: #EEE8AA;                                }
+.borderBottomColorKhaki              { border-bottom-color: #F0E68C;                                }
+.borderBottomColorDarkKhaki          { border-bottom-color: #BDB76B;                                }
+
+/*  Purple colors                                                                                  */
+.borderBottomColorLavender           { border-bottom-color: #E6E6FA;                                }
+.borderBottomColorThistle            { border-bottom-color: #D8BFD8;                                }
+.borderBottomColorPlum               { border-bottom-color: #DDA0DD;                                }
+.borderBottomColorViolet             { border-bottom-color: #EE82EE;                                }
+.borderBottomColorOrchid             { border-bottom-color: #DA70D6;                                }
+.borderBottomColorFuchsia            { border-bottom-color: #FF00FF;                                }
+.borderBottomColorMagenta            { border-bottom-color: #FF00FF;                                }
+.borderBottomColorMediumOrchid       { border-bottom-color: #BA55D3;                                }
+.borderBottomColorMediumPurple       { border-bottom-color: #9370DB;                                }
+.borderBottomColorBlueViolet         { border-bottom-color: #8A2BE2;                                }
+.borderBottomColorDarkViolet         { border-bottom-color: #9400D3;                                }
+.borderBottomColorDarkOrchid         { border-bottom-color: #9932CC;                                }
+.borderBottomColorDarkMagenta        { border-bottom-color: #8B008B;                                }
+.borderBottomColorPurple             { border-bottom-color: #800080;                                }
+.borderBottomColorIndigo             { border-bottom-color: #4B0082;                                }
+.borderBottomColorSlateBlue          { border-bottom-color: #6A5ACD;                                }
+.borderBottomColorDarkSlateBlue      { border-bottom-color: #483D8B;                                }
+.borderBottomColorMediumSlateBlue    { border-bottom-color: #7B68EE;                                }
+
+/*  Green colors                                                                                   */
+.borderBottomColorGreenYellow        { border-bottom-color: #ADFF2F;                                }
+.borderBottomColorChartreuse         { border-bottom-color: #7FFF00;                                }
+.borderBottomColorLawnGreen          { border-bottom-color: #7CFC00;                                }
+.borderBottomColorLime               { border-bottom-color: #00FF00;                                }
+.borderBottomColorLimeGreen          { border-bottom-color: #32CD32;                                }
+.borderBottomColorPaleGreen          { border-bottom-color: #98FB98;                                }
+.borderBottomColorLightGreen         { border-bottom-color: #90EE90;                                }
+.borderBottomColorMediumSpringGreen  { border-bottom-color: #00FA9A;                                }
+.borderBottomColorSpringGreen        { border-bottom-color: #00FF7F;                                }
+.borderBottomColorMediumSeaGreen     { border-bottom-color: #3CB371;                                }
+.borderBottomColorSeaGreen           { border-bottom-color: #2E8B57;                                }
+.borderBottomColorForestGreen        { border-bottom-color: #228B22;                                }
+.borderBottomColorGreen              { border-bottom-color: #008000;                                }
+.borderBottomColorDarkGreen          { border-bottom-color: #006400;                                }
+.borderBottomColorYellowGreen        { border-bottom-color: #9ACD32;                                }
+.borderBottomColorOliveDrab          { border-bottom-color: #6B8E23;                                }
+.borderBottomColorOlive              { border-bottom-color: #808000;                                }
+.borderBottomColorDarkOliveGreen     { border-bottom-color: #556B2F;                                }
+.borderBottomColorMediumAquamarine   { border-bottom-color: #66CDAA;                                }
+.borderBottomColorDarkSeaGreen       { border-bottom-color: #8FBC8F;                                }
+.borderBottomColorLightSeaGreen      { border-bottom-color: #20B2AA;                                }
+.borderBottomColorDarkCyan           { border-bottom-color: #008B8B;                                }
+.borderBottomColorTeal               { border-bottom-color: #008080;                                }
+
+/*  Blue colors                                                                                    */
+.borderBottomColorAqua               { border-bottom-color: #00FFFF;                                }
+.borderBottomColorCyan               { border-bottom-color: #00FFFF;                                }
+.borderBottomColorLightCyan          { border-bottom-color: #E0FFFF;                                }
+.borderBottomColorPaleTurquoise      { border-bottom-color: #AFEEEE;                                }
+.borderBottomColorAquamarine         { border-bottom-color: #7FFFD4;                                }
+.borderBottomColorTurquoise          { border-bottom-color: #40E0D0;                                }
+.borderBottomColorMediumTurquoise    { border-bottom-color: #48D1CC;                                }
+.borderBottomColorDarkTurquoise      { border-bottom-color: #00CED1;                                }
+.borderBottomColorCadetBlue          { border-bottom-color: #5F9EA0;                                }
+.borderBottomColorSteelBlue          { border-bottom-color: #4682B4;                                }
+.borderBottomColorLightSteelBlue     { border-bottom-color: #B0C4DE;                                }
+.borderBottomColorPowderBlue         { border-bottom-color: #B0E0E6;                                }
+.borderBottomColorLightBlue          { border-bottom-color: #ADD8E6;                                }
+.borderBottomColorSkyBlue            { border-bottom-color: #87CEEB;                                }
+.borderBottomColorLightSkyBlue       { border-bottom-color: #87CEFA;                                }
+.borderBottomColorDeepSkyBlue        { border-bottom-color: #00BFFF;                                }
+.borderBottomColorDodgerBlue         { border-bottom-color: #1E90FF;                                }
+.borderBottomColorCornflowerBlue     { border-bottom-color: #6495ED;                                }
+.borderBottomColorMediumSlateBlue    { border-bottom-color: #7B68EE;                                }
+.borderBottomColorRoyalBlue          { border-bottom-color: #4169E1;                                }
+.borderBottomColorBlue               { border-bottom-color: #0000FF;                                }
+.borderBottomColorMediumBlue         { border-bottom-color: #0000CD;                                }
+.borderBottomColorDarkBlue           { border-bottom-color: #00008B;                                }
+.borderBottomColorNavy               { border-bottom-color: #000080;                                }
+.borderBottomColorMidnightBlue       { border-bottom-color: #191970;                                }
+
+/*  Brown colors                                                                                   */
+.borderBottomColorCornsilk           { border-bottom-color: #FFF8DC;                                }
+.borderBottomColorBlanchedAlmond     { border-bottom-color: #FFEBCD;                                }
+.borderBottomColorBisque             { border-bottom-color: #FFE4C4;                                }
+.borderBottomColorNavajoWhite        { border-bottom-color: #FFDEAD;                                }
+.borderBottomColorWheat              { border-bottom-color: #F5DEB3;                                }
+.borderBottomColorBurlyWood          { border-bottom-color: #DEB887;                                }
+.borderBottomColorTan                { border-bottom-color: #D2B48C;                                }
+.borderBottomColorRosyBrown          { border-bottom-color: #BC8F8F;                                }
+.borderBottomColorSandyBrown         { border-bottom-color: #F4A460;                                }
+.borderBottomColorGoldenrod          { border-bottom-color: #DAA520;                                }
+.borderBottomColorDarkGoldenrod      { border-bottom-color: #B8860B;                                }
+.borderBottomColorPeru               { border-bottom-color: #CD853F;                                }
+.borderBottomColorChocolate          { border-bottom-color: #D2691E;                                }
+.borderBottomColorSaddleBrown        { border-bottom-color: #8B4513;                                }
+.borderBottomColorSienna             { border-bottom-color: #A0522D;                                }
+.borderBottomColorBrown              { border-bottom-color: #A52A2A;                                }
+.borderBottomColorMaroon             { border-bottom-color: #800000;                                }
+
+/*  White colors                                                                                   */
+.borderBottomColorWhite              { border-bottom-color: #FFFFFF;                                }
+.borderBottomColorSnow               { border-bottom-color: #FFFAFA;                                }
+.borderBottomColorHoneydew           { border-bottom-color: #F0FFF0;                                }
+.borderBottomColorMintCream          { border-bottom-color: #F5FFFA;                                }
+.borderBottomColorAzure              { border-bottom-color: #F0FFFF;                                }
+.borderBottomColorAliceBlue          { border-bottom-color: #F0F8FF;                                }
+.borderBottomColorGhostWhite         { border-bottom-color: #F8F8FF;                                }
+.borderBottomColorWhiteSmoke         { border-bottom-color: #F5F5F5;                                }
+.borderBottomColorSeashell           { border-bottom-color: #FFF5EE;                                }
+.borderBottomColorBeige              { border-bottom-color: #F5F5DC;                                }
+.borderBottomColorOldLace            { border-bottom-color: #FDF5E6;                                }
+.borderBottomColorFloralWhite        { border-bottom-color: #FFFAF0;                                }
+.borderBottomColorIvory              { border-bottom-color: #FFFFF0;                                }
+.borderBottomColorAntiqueWhite       { border-bottom-color: #FAEBD7;                                }
+.borderBottomColorLinen              { border-bottom-color: #FAF0E6;                                }
+.borderBottomColorLavenderBlush      { border-bottom-color: #FFF0F5;                                }
+.borderBottomColorMistyRose          { border-bottom-color: #FFE4E1;                                }
+
+/*  Grey colors                                                                                    */
+.borderBottomColorGainsboro          { border-bottom-color: #DCDCDC;                                }
+.borderBottomColorLightGrey          { border-bottom-color: #D3D3D3;                                }
+.borderBottomColorSilver             { border-bottom-color: #C0C0C0;                                }
+.borderBottomColorDarkGray           { border-bottom-color: #A9A9A9;                                }
+.borderBottomColorGray               { border-bottom-color: #808080;                                }
+.borderBottomColorDimGray            { border-bottom-color: #696969;                                }
+.borderBottomColorLightSlateGray     { border-bottom-color: #778899;                                }
+.borderBottomColorSlateGray          { border-bottom-color: #708090;                                }
+.borderBottomColorDarkSlateGray      { border-bottom-color: #2F4F4F;                                }
+.borderBottomColorBlack              { border-bottom-color: #000000;                                }
+
+/*  Exotic colors                                                                                  */
+.borderBottomColorGoogleBlue         { border-bottom-color: #c9d7f1;                                }

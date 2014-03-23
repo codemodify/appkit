@@ -1,0 +1,12 @@
+
+/***************************************************************************************************
+
+:active         Adds special style to an activated element
+:focus          Adds special style to an element while the element has focus
+:hover          Adds special style to an element when you mouse over it
+:link           Adds special style to an unvisited link
+:visited        Adds special style to a visited link
+:first-child    Adds special style to an element that is the first child of some other element
+:lang           Allows the author to specify a language to use in a specified element
+
+***************************************************************************************************/

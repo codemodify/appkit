@@ -1,0 +1,18 @@
+
+.mouseCursorUrl          { cursor: url;                                                             }
+.mouseCursorAuto         { cursor: auto;                                                            }
+.mouseCursorCrosshair    { cursor: crosshair;                                                       }
+.mouseCursorDefault      { cursor: default;                                                         }
+.mouseCursorPointer      { cursor: pointer;                                                         }
+.mouseCursorMove         { cursor: move;                                                            }
+.mouseCursorEResize      { cursor: e-resize;                                                        }
+.mouseCursorNeResize     { cursor: ne-resize;                                                       }
+.mouseCursorNwResize     { cursor: nw-resize;                                                       }
+.mouseCursorNResize      { cursor: n-resize;                                                        }
+.mouseCursorSeResize     { cursor: se-resize;                                                       }
+.mouseCursorSwResize     { cursor: sw-resize;                                                       }
+.mouseCursorSResize      { cursor: s-resize;                                                        }
+.mouseCursorWResize      { cursor: w-resize;                                                        }
+.mouseCursorText         { cursor: text;                                                            }
+.mouseCursorWait         { cursor: wait;                                                            }
+.mouseCursorHelp         { cursor: help;                                                            }

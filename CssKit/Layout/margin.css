@@ -1,0 +1,135 @@
+
+/***************************************************************************************************
+*   Top
+***************************************************************************************************/
+.marginTopAuto          { margin-top: auto;                                                         }
+
+.marginTop0px           { margin-top: 0px;                                                          }
+.marginTop1px           { margin-top: 1px;                                                          }
+.marginTop2px           { margin-top: 2px;                                                          }
+.marginTop3px           { margin-top: 3px;                                                          }
+.marginTop4px           { margin-top: 4px;                                                          }
+.marginTop5px           { margin-top: 5px;                                                          }
+.marginTop6px           { margin-top: 6px;                                                          }
+.marginTop7px           { margin-top: 7px;                                                          }
+.marginTop8px           { margin-top: 8px;                                                          }
+.marginTop9px           { margin-top: 9px;                                                          }
+.marginTop10px          { margin-top: 10px;                                                         }
+.marginTop20px          { margin-top: 20px;                                                         }
+.marginTop30px          { margin-top: 30px;                                                         }
+.marginTop40px          { margin-top: 40px;                                                         }
+.marginTop50px          { margin-top: 50px;                                                         }
+
+.marginTop5p            { margin-top: 5%;                                                           }
+.marginTop10p           { margin-top: 10%;                                                          }
+.marginTop15p           { margin-top: 15%;                                                          }
+.marginTop20p           { margin-top: 20%;                                                          }
+.marginTop25p           { margin-top: 25%;                                                          }
+.marginTop30p           { margin-top: 30%;                                                          }
+.marginTop35p           { margin-top: 35%;                                                          }
+.marginTop40p           { margin-top: 40%;                                                          }
+.marginTop45p           { margin-top: 45%;                                                          }
+.marginTop50p           { margin-top: 50%;                                                          }
+
+
+
+/***************************************************************************************************
+*   Bottom
+***************************************************************************************************/
+.marginBottomAuto       { margin-bottom: auto;                                                      }
+
+.marginBottom0px        { margin-bottom: 0px;                                                       }
+.marginBottom1px        { margin-bottom: 1px;                                                       }
+.marginBottom2px        { margin-bottom: 2px;                                                       }
+.marginBottom3px        { margin-bottom: 3px;                                                       }
+.marginBottom4px        { margin-bottom: 4px;                                                       }
+.marginBottom5px        { margin-bottom: 5px;                                                       }
+.marginBottom6px        { margin-bottom: 6px;                                                       }
+.marginBottom7px        { margin-bottom: 7px;                                                       }
+.marginBottom8px        { margin-bottom: 8px;                                                       }
+.marginBottom9px        { margin-bottom: 9px;                                                       }
+.marginBottom10px       { margin-bottom: 10px;                                                      }
+.marginBottom20px       { margin-bottom: 20px;                                                      }
+.marginBottom30px       { margin-bottom: 30px;                                                      }
+.marginBottom40px       { margin-bottom: 40px;                                                      }
+.marginBottom50px       { margin-bottom: 50px;                                                      }
+
+.marginBottom5p         { margin-bottom: 5%;                                                        }
+.marginBottom10p        { margin-bottom: 10%;                                                       }
+.marginBottom15p        { margin-bottom: 15%;                                                       }
+.marginBottom20p        { margin-bottom: 20%;                                                       }
+.marginBottom25p        { margin-bottom: 25%;                                                       }
+.marginBottom30p        { margin-bottom: 30%;                                                       }
+.marginBottom35p        { margin-bottom: 35%;                                                       }
+.marginBottom40p        { margin-bottom: 40%;                                                       }
+.marginBottom45p        { margin-bottom: 45%;                                                       }
+.marginBottom50p        { margin-bottom: 50%;                                                       }
+
+
+
+/***************************************************************************************************
+*   Left
+***************************************************************************************************/
+.marginLeftAuto         { margin-left: auto;                                                        }
+
+.marginLeft0px          { margin-left: 0px;                                                         }
+.marginLeft1px          { margin-left: 1px;                                                         }
+.marginLeft2px          { margin-left: 2px;                                                         }
+.marginLeft3px          { margin-left: 3px;                                                         }
+.marginLeft4px          { margin-left: 4px;                                                         }
+.marginLeft5px          { margin-left: 5px;                                                         }
+.marginLeft6px          { margin-left: 6px;                                                         }
+.marginLeft7px          { margin-left: 7px;                                                         }
+.marginLeft8px          { margin-left: 8px;                                                         }
+.marginLeft9px          { margin-left: 9px;                                                         }
+.marginLeft10px         { margin-left: 10px;                                                        }
+.marginLeft20px         { margin-left: 20px;                                                        }
+.marginLeft30px         { margin-left: 30px;                                                        }
+.marginLeft40px         { margin-left: 40px;                                                        }
+.marginLeft50px         { margin-left: 50px;                                                        }
+
+.marginLeft5p           { margin-left: 5%;                                                          }
+.marginLeft10p          { margin-left: 10%;                                                         }
+.marginLeft15p          { margin-left: 15%;                                                         }
+.marginLeft20p          { margin-left: 20%;                                                         }
+.marginLeft25p          { margin-left: 25%;                                                         }
+.marginLeft30p          { margin-left: 30%;                                                         }
+.marginLeft35p          { margin-left: 35%;                                                         }
+.marginLeft40p          { margin-left: 40%;                                                         }
+.marginLeft45p          { margin-left: 45%;                                                         }
+.marginLeft50p          { margin-left: 50%;                                                         }
+
+
+
+/***************************************************************************************************
+*   Right
+***************************************************************************************************/
+.marginRightAuto        { margin-right: auto;                                                       }
+
+.marginRight0px         { margin-right: 0px;                                                        }
+.marginRight1px         { margin-right: 1px;                                                        }
+.marginRight2px         { margin-right: 2px;                                                        }
+.marginRight3px         { margin-right: 3px;                                                        }
+.marginRight4px         { margin-right: 4px;                                                        }
+.marginRight5px         { margin-right: 5px;                                                        }
+.marginRight6px         { margin-right: 6px;                                                        }
+.marginRight7px         { margin-right: 7px;                                                        }
+.marginRight8px         { margin-right: 8px;                                                        }
+.marginRight9px         { margin-right: 9px;                                                        }
+.marginRight10px        { margin-right: 10px;                                                       }
+.marginRight20px        { margin-right: 20px;                                                       }
+.marginRight30px        { margin-right: 30px;                                                       }
+.marginRight40px        { margin-right: 40px;                                                       }
+.marginRight50px        { margin-right: 50px;                                                       }
+
+.marginRight5p          { margin-right: 5%;                                                         }
+.marginRight10p         { margin-right: 10%;                                                        }
+.marginRight15p         { margin-right: 15%;                                                        }
+.marginRight20p         { margin-right: 20%;                                                        }
+.marginRight25p         { margin-right: 25%;                                                        }
+.marginRight30p         { margin-right: 30%;                                                        }
+.marginRight35p         { margin-right: 35%;                                                        }
+.marginRight40p         { margin-right: 40%;                                                        }
+.marginRight45p         { margin-right: 45%;                                                        }
+.marginRight50p         { margin-right: 50%;                                                        }
+

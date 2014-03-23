@@ -1,0 +1,165 @@
+
+/*  Red colors                                                                                     */
+.borderColorIndianRed          { border-color: #CD5C5C;                                             }
+.borderColorLightCoral         { border-color: #F08080;                                             }
+.borderColorSalmon             { border-color: #FA8072;                                             }
+.borderColorDarkSalmon         { border-color: #E9967A;                                             }
+.borderColorLightSalmon        { border-color: #FFA07A;                                             }
+.borderColorCrimson            { border-color: #DC143C;                                             }
+.borderColorRed                { border-color: #FF0000;                                             }
+.borderColorFireBrick          { border-color: #B22222;                                             }
+.borderColorDarkRed            { border-color: #8B0000;                                             }
+
+/*  Pink colors                                                                                    */
+.borderColorPink               { border-color: #FFC0CB;                                             }
+.borderColorLightPink          { border-color: #FFB6C1;                                             }
+.borderColorHotPink            { border-color: #FF69B4;                                             }
+.borderColorDeepPink           { border-color: #FF1493;                                             }
+.borderColorMediumVioletRed    { border-color: #C71585;                                             }
+.borderColorPaleVioletRed      { border-color: #DB7093;                                             }
+
+/*  Orange colors                                                                                  */
+.borderColorLightSalmon        { border-color: #FFA07A;                                             }
+.borderColorCoral              { border-color: #FF7F50;                                             }
+.borderColorTomato             { border-color: #FF6347;                                             }
+.borderColorOrangeRed          { border-color: #FF4500;                                             }
+.borderColorDarkOrange         { border-color: #FF8C00;                                             }
+.borderColorOrange             { border-color: #FFA500;                                             }
+
+/*  Yellow colors                                                                                  */
+.borderColorGold               { border-color: #FFD700;                                             }
+.borderColorYellow             { border-color: #FFFF00;                                             }
+.borderColorLightYellow        { border-color: #FFFFE0;                                             }
+.borderColorLemonChiffon       { border-color: #FFFACD;                                             }
+.borderColorLightGoldenrodYellow{border-color: #FAFAD2;                                             }
+.borderColorPapayaWhip         { border-color: #FFEFD5;                                             }
+.borderColorMoccasin           { border-color: #FFE4B5;                                             }
+.borderColorPeachPuff          { border-color: #FFDAB9;                                             }
+.borderColorPaleGoldenrod      { border-color: #EEE8AA;                                             }
+.borderColorKhaki              { border-color: #F0E68C;                                             }
+.borderColorDarkKhaki          { border-color: #BDB76B;                                             }
+
+/*  Purple colors                                                                                  */
+.borderColorLavender           { border-color: #E6E6FA;                                             }
+.borderColorThistle            { border-color: #D8BFD8;                                             }
+.borderColorPlum               { border-color: #DDA0DD;                                             }
+.borderColorViolet             { border-color: #EE82EE;                                             }
+.borderColorOrchid             { border-color: #DA70D6;                                             }
+.borderColorFuchsia            { border-color: #FF00FF;                                             }
+.borderColorMagenta            { border-color: #FF00FF;                                             }
+.borderColorMediumOrchid       { border-color: #BA55D3;                                             }
+.borderColorMediumPurple       { border-color: #9370DB;                                             }
+.borderColorBlueViolet         { border-color: #8A2BE2;                                             }
+.borderColorDarkViolet         { border-color: #9400D3;                                             }
+.borderColorDarkOrchid         { border-color: #9932CC;                                             }
+.borderColorDarkMagenta        { border-color: #8B008B;                                             }
+.borderColorPurple             { border-color: #800080;                                             }
+.borderColorIndigo             { border-color: #4B0082;                                             }
+.borderColorSlateBlue          { border-color: #6A5ACD;                                             }
+.borderColorDarkSlateBlue      { border-color: #483D8B;                                             }
+.borderColorMediumSlateBlue    { border-color: #7B68EE;                                             }
+
+/*  Green colors                                                                                   */
+.borderColorGreenYellow        { border-color: #ADFF2F;                                             }
+.borderColorChartreuse         { border-color: #7FFF00;                                             }
+.borderColorLawnGreen          { border-color: #7CFC00;                                             }
+.borderColorLime               { border-color: #00FF00;                                             }
+.borderColorLimeGreen          { border-color: #32CD32;                                             }
+.borderColorPaleGreen          { border-color: #98FB98;                                             }
+.borderColorLightGreen         { border-color: #90EE90;                                             }
+.borderColorMediumSpringGreen  { border-color: #00FA9A;                                             }
+.borderColorSpringGreen        { border-color: #00FF7F;                                             }
+.borderColorMediumSeaGreen     { border-color: #3CB371;                                             }
+.borderColorSeaGreen           { border-color: #2E8B57;                                             }
+.borderColorForestGreen        { border-color: #228B22;                                             }
+.borderColorGreen              { border-color: #008000;                                             }
+.borderColorDarkGreen          { border-color: #006400;                                             }
+.borderColorYellowGreen        { border-color: #9ACD32;                                             }
+.borderColorOliveDrab          { border-color: #6B8E23;                                             }
+.borderColorOlive              { border-color: #808000;                                             }
+.borderColorDarkOliveGreen     { border-color: #556B2F;                                             }
+.borderColorMediumAquamarine   { border-color: #66CDAA;                                             }
+.borderColorDarkSeaGreen       { border-color: #8FBC8F;                                             }
+.borderColorLightSeaGreen      { border-color: #20B2AA;                                             }
+.borderColorDarkCyan           { border-color: #008B8B;                                             }
+.borderColorTeal               { border-color: #008080;                                             }
+
+/*  Blue colors                                                                                    */
+.borderColorAqua               { border-color: #00FFFF;                                             }
+.borderColorCyan               { border-color: #00FFFF;                                             }
+.borderColorLightCyan          { border-color: #E0FFFF;                                             }
+.borderColorPaleTurquoise      { border-color: #AFEEEE;                                             }
+.borderColorAquamarine         { border-color: #7FFFD4;                                             }
+.borderColorTurquoise          { border-color: #40E0D0;                                             }
+.borderColorMediumTurquoise    { border-color: #48D1CC;                                             }
+.borderColorDarkTurquoise      { border-color: #00CED1;                                             }
+.borderColorCadetBlue          { border-color: #5F9EA0;                                             }
+.borderColorSteelBlue          { border-color: #4682B4;                                             }
+.borderColorLightSteelBlue     { border-color: #B0C4DE;                                             }
+.borderColorPowderBlue         { border-color: #B0E0E6;                                             }
+.borderColorLightBlue          { border-color: #ADD8E6;                                             }
+.borderColorSkyBlue            { border-color: #87CEEB;                                             }
+.borderColorLightSkyBlue       { border-color: #87CEFA;                                             }
+.borderColorDeepSkyBlue        { border-color: #00BFFF;                                             }
+.borderColorDodgerBlue         { border-color: #1E90FF;                                             }
+.borderColorCornflowerBlue     { border-color: #6495ED;                                             }
+.borderColorMediumSlateBlue    { border-color: #7B68EE;                                             }
+.borderColorRoyalBlue          { border-color: #4169E1;                                             }
+.borderColorBlue               { border-color: #0000FF;                                             }
+.borderColorMediumBlue         { border-color: #0000CD;                                             }
+.borderColorDarkBlue           { border-color: #00008B;                                             }
+.borderColorNavy               { border-color: #000080;                                             }
+.borderColorMidnightBlue       { border-color: #191970;                                             }
+
+/*  Brown colors                                                                                   */
+.borderColorCornsilk           { border-color: #FFF8DC;                                             }
+.borderColorBlanchedAlmond     { border-color: #FFEBCD;                                             }
+.borderColorBisque             { border-color: #FFE4C4;                                             }
+.borderColorNavajoWhite        { border-color: #FFDEAD;                                             }
+.borderColorWheat              { border-color: #F5DEB3;                                             }
+.borderColorBurlyWood          { border-color: #DEB887;                                             }
+.borderColorTan                { border-color: #D2B48C;                                             }
+.borderColorRosyBrown          { border-color: #BC8F8F;                                             }
+.borderColorSandyBrown         { border-color: #F4A460;                                             }
+.borderColorGoldenrod          { border-color: #DAA520;                                             }
+.borderColorDarkGoldenrod      { border-color: #B8860B;                                             }
+.borderColorPeru               { border-color: #CD853F;                                             }
+.borderColorChocolate          { border-color: #D2691E;                                             }
+.borderColorSaddleBrown        { border-color: #8B4513;                                             }
+.borderColorSienna             { border-color: #A0522D;                                             }
+.borderColorBrown              { border-color: #A52A2A;                                             }
+.borderColorMaroon             { border-color: #800000;                                             }
+
+/*  White colors                                                                                   */
+.borderColorWhite              { border-color: #FFFFFF;                                             }
+.borderColorSnow               { border-color: #FFFAFA;                                             }
+.borderColorHoneydew           { border-color: #F0FFF0;                                             }
+.borderColorMintCream          { border-color: #F5FFFA;                                             }
+.borderColorAzure              { border-color: #F0FFFF;                                             }
+.borderColorAliceBlue          { border-color: #F0F8FF;                                             }
+.borderColorGhostWhite         { border-color: #F8F8FF;                                             }
+.borderColorWhiteSmoke         { border-color: #F5F5F5;                                             }
+.borderColorSeashell           { border-color: #FFF5EE;                                             }
+.borderColorBeige              { border-color: #F5F5DC;                                             }
+.borderColorOldLace            { border-color: #FDF5E6;                                             }
+.borderColorFloralWhite        { border-color: #FFFAF0;                                             }
+.borderColorIvory              { border-color: #FFFFF0;                                             }
+.borderColorAntiqueWhite       { border-color: #FAEBD7;                                             }
+.borderColorLinen              { border-color: #FAF0E6;                                             }
+.borderColorLavenderBlush      { border-color: #FFF0F5;                                             }
+.borderColorMistyRose          { border-color: #FFE4E1;                                             }
+
+/*  Grey colors                                                                                    */
+.borderColorGainsboro          { border-color: #DCDCDC;                                             }
+.borderColorLightGrey          { border-color: #D3D3D3;                                             }
+.borderColorSilver             { border-color: #C0C0C0;                                             }
+.borderColorDarkGray           { border-color: #A9A9A9;                                             }
+.borderColorGray               { border-color: #808080;                                             }
+.borderColorDimGray            { border-color: #696969;                                             }
+.borderColorLightSlateGray     { border-color: #778899;                                             }
+.borderColorSlateGray          { border-color: #708090;                                             }
+.borderColorDarkSlateGray      { border-color: #2F4F4F;                                             }
+.borderColorBlack              { border-color: #000000;                                             }
+
+/*  Exotic colors                                                                                  */
+.borderColorGoogleBlue         { border-color: #c9d7f1;                                             }

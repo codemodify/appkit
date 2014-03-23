@@ -1,0 +1,27 @@
+
+.listStyleImageNone                 { list-style-image: none;                                       }
+
+.listStylePositionInside            { list-style-position: inside;                                  }
+.listStylePositionOutside           { list-style-position: outside;                                 }
+
+.listStyleTypeNone                  { list-style-type: none;                                        }
+.listStyleTypeDisc                  { list-style-type: disc;                                        }
+.listStyleTypeCircle                { list-style-type: circle;                                      }
+.listStyleTypeSquare                { list-style-type: square;                                      }
+.listStyleTypeDecimal               { list-style-type: decimal;                                     }
+.listStyleTypeDecimalLeadingZero    { list-style-type: decimal-leading-zero;                        }
+.listStyleTypeLowerroman            { list-style-type: lower-roman                                  }
+.listStyleTypeUpperroman            { list-style-type: upper-roman                                  }
+.listStyleTypeLoweralpha            { list-style-type: lower-alpha                                  }
+.listStyleTypeUpperalpha            { list-style-type: upper-alpha                                  }
+.listStyleTypeLowergreek            { list-style-type: lower-greek                                  }
+.listStyleTypeLowerlatin            { list-style-type: lower-latin                                  }
+.listStyleTypeUpperlatin            { list-style-type: upper-latin                                  }
+.listStyleTypeHebrew                { list-style-type: hebrew                                       }
+.listStyleTypeArmenian              { list-style-type: armenian                                     }
+.listStyleTypeGeorgian              { list-style-type: georgian                                     }
+.listStyleTypeCjkIdeographic        { list-style-type: cjk-ideographic                              }
+.listStyleTypeHiragana              { list-style-type: hiragan                                      }
+.listStyleTypeKatakana              { list-style-type: katakana                                     }
+.listStyleTypeHiraganaIroha         { list-style-type: hiragana-iroha                               }
+.listStyleTypeKatakanaIroha         { list-style-type: katakana-iroha                               }

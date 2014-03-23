@@ -1,0 +1,11 @@
+
+.borderStyleNone                    { border-style: none;                                           }
+.borderStyleHidden                  { border-style: hidden;                                         }
+.borderStyleDotted                  { border-style: dotted;                                         }
+.borderStyleDashed                  { border-style: dashed;                                         }
+.borderStyleSolid                   { border-style: solid;                                          }
+.borderStyleDouble                  { border-style: double;                                         }
+.borderStyleGroove                  { border-style: groove;                                         }
+.borderStyleRidge                   { border-style: ridge;                                          }
+.borderStyleInset                   { border-style: inset;                                          }
+.borderStyleOutset                  { border-style: outset;                                         }

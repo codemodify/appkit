@@ -1,0 +1,170 @@
+
+/***************************************************************************************************
+*   Width
+***************************************************************************************************/
+.sizeWidthAuto                     { width: auto;                                                   }
+
+.sizeWidth0px                      { width: 0px;                                                    }
+.sizeWidth1px                      { width: 1px;                                                    }
+.sizeWidth2px                      { width: 2px;                                                    }
+.sizeWidth3px                      { width: 3px;                                                    }
+.sizeWidth4px                      { width: 4px;                                                    }
+.sizeWidth5px                      { width: 5px;                                                    }
+.sizeWidth6px                      { width: 6px;                                                    }
+.sizeWidth7px                      { width: 7px;                                                    }
+.sizeWidth8px                      { width: 8px;                                                    }
+.sizeWidth9px                      { width: 9px;                                                    }
+.sizeWidth10px                     { width: 10px;                                                   }
+.sizeWidth20px                     { width: 20px;                                                   }
+.sizeWidth30px                     { width: 30px;                                                   }
+.sizeWidth40px                     { width: 40px;                                                   }
+.sizeWidth50px                     { width: 50px;                                                   }
+.sizeWidth60px                     { width: 60px;                                                   }
+.sizeWidth70px                     { width: 70px;                                                   }
+.sizeWidth80px                     { width: 80px;                                                   }
+.sizeWidth90px                     { width: 90px;                                                   }
+.sizeWidth100px                    { width: 100px;                                                  }
+.sizeWidth200px                    { width: 200px;                                                  }
+.sizeWidth300px                    { width: 300px;                                                  }
+.sizeWidth400px                    { width: 400px;                                                  }
+.sizeWidth500px                    { width: 500px;                                                  }
+.sizeWidth600px                    { width: 600px;                                                  }
+.sizeWidth700px                    { width: 700px;                                                  }
+.sizeWidth800px                    { width: 800px;                                                  }
+.sizeWidth900px                    { width: 900px;                                                  }
+.sizeWidth1000px                   { width: 1000px;                                                 }
+
+.sizeWidth5p                       { width: 5%;                                                     }
+.sizeWidth10p                      { width: 10%;                                                    }
+.sizeWidth15p                      { width: 15%;                                                    }
+.sizeWidth20p                      { width: 20%;                                                    }
+.sizeWidth25p                      { width: 25%;                                                    }
+.sizeWidth30p                      { width: 30%;                                                    }
+.sizeWidth35p                      { width: 35%;                                                    }
+.sizeWidth40p                      { width: 40%;                                                    }
+.sizeWidth45p                      { width: 45%;                                                    }
+.sizeWidth50p                      { width: 50%;                                                    }
+.sizeWidth55p                      { width: 55%;                                                    }
+.sizeWidth60p                      { width: 60%;                                                    }
+.sizeWidth65p                      { width: 65%;                                                    }
+.sizeWidth70p                      { width: 70%;                                                    }
+.sizeWidth75p                      { width: 75%;                                                    }
+.sizeWidth80p                      { width: 80%;                                                    }
+.sizeWidth85p                      { width: 85%;                                                    }
+.sizeWidth90p                      { width: 90%;                                                    }
+.sizeWidth95p                      { width: 95%;                                                    }
+.sizeWidth100p                     { width: 100%;                                                   }
+
+
+
+/***************************************************************************************************
+*   MaxWidth
+***************************************************************************************************/
+.sizeWidthMaxNone                  { max-width: none                                                }
+
+.sizeWidthMax0px                   { max-width: 0px;                                                }
+.sizeWidthMax1px                   { max-width: 1px;                                                }
+.sizeWidthMax2px                   { max-width: 2px;                                                }
+.sizeWidthMax3px                   { max-width: 3px;                                                }
+.sizeWidthMax4px                   { max-width: 4px;                                                }
+.sizeWidthMax5px                   { max-width: 5px;                                                }
+.sizeWidthMax6px                   { max-width: 6px;                                                }
+.sizeWidthMax7px                   { max-width: 7px;                                                }
+.sizeWidthMax8px                   { max-width: 8px;                                                }
+.sizeWidthMax9px                   { max-width: 9px;                                                }
+.sizeWidthMax10px                  { max-width: 10px;                                               }
+.sizeWidthMax20px                  { max-width: 20px;                                               }
+.sizeWidthMax30px                  { max-width: 30px;                                               }
+.sizeWidthMax40px                  { max-width: 40px;                                               }
+.sizeWidthMax50px                  { max-width: 50px;                                               }
+.sizeWidthMax60px                  { max-width: 60px;                                               }
+.sizeWidthMax70px                  { max-width: 70px;                                               }
+.sizeWidthMax80px                  { max-width: 80px;                                               }
+.sizeWidthMax90px                  { max-width: 90px;                                               }
+.sizeWidthMax100px                 { max-width: 100px;                                              }
+.sizeWidthMax200px                 { max-width: 200px;                                              }
+.sizeWidthMax300px                 { max-width: 300px;                                              }
+.sizeWidthMax400px                 { max-width: 400px;                                              }
+.sizeWidthMax500px                 { max-width: 500px;                                              }
+.sizeWidthMax600px                 { max-width: 600px;                                              }
+.sizeWidthMax700px                 { max-width: 700px;                                              }
+.sizeWidthMax800px                 { max-width: 800px;                                              }
+.sizeWidthMax900px                 { max-width: 900px;                                              }
+.sizeWidthMax1000px                { max-width: 1000px;                                             }
+
+.sizeWidthMax5p                    { max-width: 5%;                                                 }
+.sizeWidthMax10p                   { max-width: 10%;                                                }
+.sizeWidthMax15p                   { max-width: 15%;                                                }
+.sizeWidthMax20p                   { max-width: 20%;                                                }
+.sizeWidthMax25p                   { max-width: 25%;                                                }
+.sizeWidthMax30p                   { max-width: 30%;                                                }
+.sizeWidthMax35p                   { max-width: 35%;                                                }
+.sizeWidthMax40p                   { max-width: 40%;                                                }
+.sizeWidthMax45p                   { max-width: 45%;                                                }
+.sizeWidthMax50p                   { max-width: 50%;                                                }
+.sizeWidthMax55p                   { max-width: 55%;                                                }
+.sizeWidthMax60p                   { max-width: 60%;                                                }
+.sizeWidthMax65p                   { max-width: 65%;                                                }
+.sizeWidthMax70p                   { max-width: 70%;                                                }
+.sizeWidthMax75p                   { max-width: 75%;                                                }
+.sizeWidthMax80p                   { max-width: 80%;                                                }
+.sizeWidthMax85p                   { max-width: 85%;                                                }
+.sizeWidthMax90p                   { max-width: 90%;                                                }
+.sizeWidthMax95p                   { max-width: 95%;                                                }
+.sizeWidthMax100p                  { max-width: 100%;                                               }
+
+
+
+/***************************************************************************************************
+*   MinWidth
+***************************************************************************************************/
+.sizeWidthMin0px                   { min-width: 0px;                                                }
+.sizeWidthMin1px                   { min-width: 1px;                                                }
+.sizeWidthMin2px                   { min-width: 2px;                                                }
+.sizeWidthMin3px                   { min-width: 3px;                                                }
+.sizeWidthMin4px                   { min-width: 4px;                                                }
+.sizeWidthMin5px                   { min-width: 5px;                                                }
+.sizeWidthMin6px                   { min-width: 6px;                                                }
+.sizeWidthMin7px                   { min-width: 7px;                                                }
+.sizeWidthMin8px                   { min-width: 8px;                                                }
+.sizeWidthMin9px                   { min-width: 9px;                                                }
+.sizeWidthMin10px                  { min-width: 10px;                                               }
+.sizeWidthMin20px                  { min-width: 20px;                                               }
+.sizeWidthMin30px                  { min-width: 30px;                                               }
+.sizeWidthMin40px                  { min-width: 40px;                                               }
+.sizeWidthMin50px                  { min-width: 50px;                                               }
+.sizeWidthMin60px                  { min-width: 60px;                                               }
+.sizeWidthMin70px                  { min-width: 70px;                                               }
+.sizeWidthMin80px                  { min-width: 80px;                                               }
+.sizeWidthMin90px                  { min-width: 90px;                                               }
+.sizeWidthMin100px                 { min-width: 100px;                                              }
+.sizeWidthMin200px                 { min-width: 200px;                                              }
+.sizeWidthMin300px                 { min-width: 300px;                                              }
+.sizeWidthMin400px                 { min-width: 400px;                                              }
+.sizeWidthMin500px                 { min-width: 500px;                                              }
+.sizeWidthMin600px                 { min-width: 600px;                                              }
+.sizeWidthMin700px                 { min-width: 700px;                                              }
+.sizeWidthMin800px                 { min-width: 800px;                                              }
+.sizeWidthMin900px                 { min-width: 900px;                                              }
+.sizeWidthMin1000px                { min-width: 1000px;                                             }
+
+.sizeWidthMin5p                    { min-width: 5%;                                                 }
+.sizeWidthMin10p                   { min-width: 10%;                                                }
+.sizeWidthMin15p                   { min-width: 15%;                                                }
+.sizeWidthMin20p                   { min-width: 20%;                                                }
+.sizeWidthMin25p                   { min-width: 25%;                                                }
+.sizeWidthMin30p                   { min-width: 30%;                                                }
+.sizeWidthMin35p                   { min-width: 35%;                                                }
+.sizeWidthMin40p                   { min-width: 40%;                                                }
+.sizeWidthMin45p                   { min-width: 45%;                                                }
+.sizeWidthMin50p                   { min-width: 50%;                                                }
+.sizeWidthMin55p                   { min-width: 55%;                                                }
+.sizeWidthMin60p                   { min-width: 60%;                                                }
+.sizeWidthMin65p                   { min-width: 65%;                                                }
+.sizeWidthMin70p                   { min-width: 70%;                                                }
+.sizeWidthMin75p                   { min-width: 75%;                                                }
+.sizeWidthMin80p                   { min-width: 80%;                                                }
+.sizeWidthMin85p                   { min-width: 85%;                                                }
+.sizeWidthMin90p                   { min-width: 90%;                                                }
+.sizeWidthMin95p                   { min-width: 95%;                                                }
+.sizeWidthMin100p                  { min-width: 100%;                                               }

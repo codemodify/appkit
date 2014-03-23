@@ -1,0 +1,165 @@
+
+/*  Red colors                                                                                     */
+.textColorIndianRed          { color: #CD5C5C;                                                      }
+.textColorLightCoral         { color: #F08080;                                                      }
+.textColorSalmon             { color: #FA8072;                                                      }
+.textColorDarkSalmon         { color: #E9967A;                                                      }
+.textColorLightSalmon        { color: #FFA07A;                                                      }
+.textColorCrimson            { color: #DC143C;                                                      }
+.textColorRed                { color: #FF0000;                                                      }
+.textColorFireBrick          { color: #B22222;                                                      }
+.textColorDarkRed            { color: #8B0000;                                                      }
+
+/*  Pink colors                                                                                    */
+.textColorPink               { color: #FFC0CB;                                                      }
+.textColorLightPink          { color: #FFB6C1;                                                      }
+.textColorHotPink            { color: #FF69B4;                                                      }
+.textColorDeepPink           { color: #FF1493;                                                      }
+.textColorMediumVioletRed    { color: #C71585;                                                      }
+.textColorPaleVioletRed      { color: #DB7093;                                                      }
+
+/*  Orange colors                                                                                  */
+.textColorLightSalmon        { color: #FFA07A;                                                      }
+.textColorCoral              { color: #FF7F50;                                                      }
+.textColorTomato             { color: #FF6347;                                                      }
+.textColorOrangeRed          { color: #FF4500;                                                      }
+.textColorDarkOrange         { color: #FF8C00;                                                      }
+.textColorOrange             { color: #FFA500;                                                      }
+
+/*  Yellow colors                                                                                  */
+.textColorGold               { color: #FFD700;                                                      }
+.textColorYellow             { color: #FFFF00;                                                      }
+.textColorLightYellow        { color: #FFFFE0;                                                      }
+.textColorLemonChiffon       { color: #FFFACD;                                                      }
+.textColorLightGoldenrodYellow{color: #FAFAD2;                                                      }
+.textColorPapayaWhip         { color: #FFEFD5;                                                      }
+.textColorMoccasin           { color: #FFE4B5;                                                      }
+.textColorPeachPuff          { color: #FFDAB9;                                                      }
+.textColorPaleGoldenrod      { color: #EEE8AA;                                                      }
+.textColorKhaki              { color: #F0E68C;                                                      }
+.textColorDarkKhaki          { color: #BDB76B;                                                      }
+
+/*  Purple colors                                                                                  */
+.textColorLavender           { color: #E6E6FA;                                                      }
+.textColorThistle            { color: #D8BFD8;                                                      }
+.textColorPlum               { color: #DDA0DD;                                                      }
+.textColorViolet             { color: #EE82EE;                                                      }
+.textColorOrchid             { color: #DA70D6;                                                      }
+.textColorFuchsia            { color: #FF00FF;                                                      }
+.textColorMagenta            { color: #FF00FF;                                                      }
+.textColorMediumOrchid       { color: #BA55D3;                                                      }
+.textColorMediumPurple       { color: #9370DB;                                                      }
+.textColorBlueViolet         { color: #8A2BE2;                                                      }
+.textColorDarkViolet         { color: #9400D3;                                                      }
+.textColorDarkOrchid         { color: #9932CC;                                                      }
+.textColorDarkMagenta        { color: #8B008B;                                                      }
+.textColorPurple             { color: #800080;                                                      }
+.textColorIndigo             { color: #4B0082;                                                      }
+.textColorSlateBlue          { color: #6A5ACD;                                                      }
+.textColorDarkSlateBlue      { color: #483D8B;                                                      }
+.textColorMediumSlateBlue    { color: #7B68EE;                                                      }
+
+/*  Green colors                                                                                   */
+.textColorGreenYellow        { color: #ADFF2F;                                                      }
+.textColorChartreuse         { color: #7FFF00;                                                      }
+.textColorLawnGreen          { color: #7CFC00;                                                      }
+.textColorLime               { color: #00FF00;                                                      }
+.textColorLimeGreen          { color: #32CD32;                                                      }
+.textColorPaleGreen          { color: #98FB98;                                                      }
+.textColorLightGreen         { color: #90EE90;                                                      }
+.textColorMediumSpringGreen  { color: #00FA9A;                                                      }
+.textColorSpringGreen        { color: #00FF7F;                                                      }
+.textColorMediumSeaGreen     { color: #3CB371;                                                      }
+.textColorSeaGreen           { color: #2E8B57;                                                      }
+.textColorForestGreen        { color: #228B22;                                                      }
+.textColorGreen              { color: #008000;                                                      }
+.textColorDarkGreen          { color: #006400;                                                      }
+.textColorYellowGreen        { color: #9ACD32;                                                      }
+.textColorOliveDrab          { color: #6B8E23;                                                      }
+.textColorOlive              { color: #808000;                                                      }
+.textColorDarkOliveGreen     { color: #556B2F;                                                      }
+.textColorMediumAquamarine   { color: #66CDAA;                                                      }
+.textColorDarkSeaGreen       { color: #8FBC8F;                                                      }
+.textColorLightSeaGreen      { color: #20B2AA;                                                      }
+.textColorDarkCyan           { color: #008B8B;                                                      }
+.textColorTeal               { color: #008080;                                                      }
+
+/*  Blue colors                                                                                    */
+.textColorAqua               { color: #00FFFF;                                                      }
+.textColorCyan               { color: #00FFFF;                                                      }
+.textColorLightCyan          { color: #E0FFFF;                                                      }
+.textColorPaleTurquoise      { color: #AFEEEE;                                                      }
+.textColorAquamarine         { color: #7FFFD4;                                                      }
+.textColorTurquoise          { color: #40E0D0;                                                      }
+.textColorMediumTurquoise    { color: #48D1CC;                                                      }
+.textColorDarkTurquoise      { color: #00CED1;                                                      }
+.textColorCadetBlue          { color: #5F9EA0;                                                      }
+.textColorSteelBlue          { color: #4682B4;                                                      }
+.textColorLightSteelBlue     { color: #B0C4DE;                                                      }
+.textColorPowderBlue         { color: #B0E0E6;                                                      }
+.textColorLightBlue          { color: #ADD8E6;                                                      }
+.textColorSkyBlue            { color: #87CEEB;                                                      }
+.textColorLightSkyBlue       { color: #87CEFA;                                                      }
+.textColorDeepSkyBlue        { color: #00BFFF;                                                      }
+.textColorDodgerBlue         { color: #1E90FF;                                                      }
+.textColorCornflowerBlue     { color: #6495ED;                                                      }
+.textColorMediumSlateBlue    { color: #7B68EE;                                                      }
+.textColorRoyalBlue          { color: #4169E1;                                                      }
+.textColorBlue               { color: #0000FF;                                                      }
+.textColorMediumBlue         { color: #0000CD;                                                      }
+.textColorDarkBlue           { color: #00008B;                                                      }
+.textColorNavy               { color: #000080;                                                      }
+.textColorMidnightBlue       { color: #191970;                                                      }
+
+/*  Brown colors                                                                                   */
+.textColorCornsilk           { color: #FFF8DC;                                                      }
+.textColorBlanchedAlmond     { color: #FFEBCD;                                                      }
+.textColorBisque             { color: #FFE4C4;                                                      }
+.textColorNavajoWhite        { color: #FFDEAD;                                                      }
+.textColorWheat              { color: #F5DEB3;                                                      }
+.textColorBurlyWood          { color: #DEB887;                                                      }
+.textColorTan                { color: #D2B48C;                                                      }
+.textColorRosyBrown          { color: #BC8F8F;                                                      }
+.textColorSandyBrown         { color: #F4A460;                                                      }
+.textColorGoldenrod          { color: #DAA520;                                                      }
+.textColorDarkGoldenrod      { color: #B8860B;                                                      }
+.textColorPeru               { color: #CD853F;                                                      }
+.textColorChocolate          { color: #D2691E;                                                      }
+.textColorSaddleBrown        { color: #8B4513;                                                      }
+.textColorSienna             { color: #A0522D;                                                      }
+.textColorBrown              { color: #A52A2A;                                                      }
+.textColorMaroon             { color: #800000;                                                      }
+
+/*  White colors                                                                                   */
+.textColorWhite              { color: #FFFFFF;                                                      }
+.textColorSnow               { color: #FFFAFA;                                                      }
+.textColorHoneydew           { color: #F0FFF0;                                                      }
+.textColorMintCream          { color: #F5FFFA;                                                      }
+.textColorAzure              { color: #F0FFFF;                                                      }
+.textColorAliceBlue          { color: #F0F8FF;                                                      }
+.textColorGhostWhite         { color: #F8F8FF;                                                      }
+.textColorWhiteSmoke         { color: #F5F5F5;                                                      }
+.textColorSeashell           { color: #FFF5EE;                                                      }
+.textColorBeige              { color: #F5F5DC;                                                      }
+.textColorOldLace            { color: #FDF5E6;                                                      }
+.textColorFloralWhite        { color: #FFFAF0;                                                      }
+.textColorIvory              { color: #FFFFF0;                                                      }
+.textColorAntiqueWhite       { color: #FAEBD7;                                                      }
+.textColorLinen              { color: #FAF0E6;                                                      }
+.textColorLavenderBlush      { color: #FFF0F5;                                                      }
+.textColorMistyRose          { color: #FFE4E1;                                                      }
+
+/*  Grey colors                                                                                    */
+.textColorGainsboro          { color: #DCDCDC;                                                      }
+.textColorLightGrey          { color: #D3D3D3;                                                      }
+.textColorSilver             { color: #C0C0C0;                                                      }
+.textColorDarkGray           { color: #A9A9A9;                                                      }
+.textColorGray               { color: #808080;                                                      }
+.textColorDimGray            { color: #696969;                                                      }
+.textColorLightSlateGray     { color: #778899;                                                      }
+.textColorSlateGray          { color: #708090;                                                      }
+.textColorDarkSlateGray      { color: #2F4F4F;                                                      }
+.textColorBlack              { color: #000000;                                                      }
+
+/*  Exotic colors                                                                                  */
+.textColorGoogleBlue         { color: #c9d7f1;                                                      }

@@ -1,0 +1,110 @@
+
+/***************************************************************************************************
+*   Space between text lines
+***************************************************************************************************/
+.spceBetweenTextLinesNormal      { line-height: normal;                                             }
+
+.spceBetweenTextLines0px         { line-height: 0px;                                                }
+.spceBetweenTextLines1px         { line-height: 1px;                                                }
+.spceBetweenTextLines2px         { line-height: 2px;                                                }
+.spceBetweenTextLines3px         { line-height: 3px;                                                }
+.spceBetweenTextLines4px         { line-height: 4px;                                                }
+.spceBetweenTextLines5px         { line-height: 5px;                                                }
+.spceBetweenTextLines6px         { line-height: 6px;                                                }
+.spceBetweenTextLines7px         { line-height: 7px;                                                }
+.spceBetweenTextLines8px         { line-height: 8px;                                                }
+.spceBetweenTextLines9px         { line-height: 9px;                                                }
+.spceBetweenTextLines10px        { line-height: 10px;                                               }
+.spceBetweenTextLines20px        { line-height: 20px;                                               }
+.spceBetweenTextLines30px        { line-height: 30px;                                               }
+.spceBetweenTextLines40px        { line-height: 40px;                                               }
+.spceBetweenTextLines50px        { line-height: 50px;                                               }
+.spceBetweenTextLines60px        { line-height: 60px;                                               }
+.spceBetweenTextLines70px        { line-height: 70px;                                               }
+.spceBetweenTextLines80px        { line-height: 80px;                                               }
+.spceBetweenTextLines90px        { line-height: 90px;                                               }
+.spceBetweenTextLines100px       { line-height: 100px;                                              }
+
+.spceBetweenTextLines5p          { line-height: 5%;                                                 }
+.spceBetweenTextLines10p         { line-height: 10%;                                                }
+.spceBetweenTextLines15p         { line-height: 15%;                                                }
+.spceBetweenTextLines20p         { line-height: 20%;                                                }
+.spceBetweenTextLines25p         { line-height: 25%;                                                }
+.spceBetweenTextLines30p         { line-height: 30%;                                                }
+.spceBetweenTextLines35p         { line-height: 35%;                                                }
+.spceBetweenTextLines40p         { line-height: 40%;                                                }
+.spceBetweenTextLines45p         { line-height: 45%;                                                }
+.spceBetweenTextLines50p         { line-height: 50%;                                                }
+.spceBetweenTextLines55p         { line-height: 55%;                                                }
+.spceBetweenTextLines60p         { line-height: 60%;                                                }
+.spceBetweenTextLines65p         { line-height: 65%;                                                }
+.spceBetweenTextLines70p         { line-height: 70%;                                                }
+.spceBetweenTextLines75p         { line-height: 75%;                                                }
+.spceBetweenTextLines80p         { line-height: 80%;                                                }
+.spceBetweenTextLines85p         { line-height: 85%;                                                }
+.spceBetweenTextLines90p         { line-height: 90%;                                                }
+.spceBetweenTextLines95p         { line-height: 95%;                                                }
+.spceBetweenTextLines100p        { line-height: 100%;                                               }
+
+
+
+/***************************************************************************************************
+*   Space between words
+***************************************************************************************************/
+.spceBetweenWordsNormal         { word-spacing: normal;                                             }
+    
+.spceBetweenWords0px            { word-spacing: 0px;                                                }
+.spceBetweenWords1px            { word-spacing: 1px;                                                }
+.spceBetweenWords2px            { word-spacing: 2px;                                                }
+.spceBetweenWords3px            { word-spacing: 3px;                                                }
+.spceBetweenWords4px            { word-spacing: 4px;                                                }
+.spceBetweenWords5px            { word-spacing: 5px;                                                }
+.spceBetweenWords6px            { word-spacing: 6px;                                                }
+.spceBetweenWords7px            { word-spacing: 7px;                                                }
+.spceBetweenWords8px            { word-spacing: 8px;                                                }
+.spceBetweenWords9px            { word-spacing: 9px;                                                }
+.spceBetweenWords10px           { word-spacing: 10px;                                               }
+.spceBetweenWords20px           { word-spacing: 20px;                                               }
+.spceBetweenWords30px           { word-spacing: 30px;                                               }
+.spceBetweenWords40px           { word-spacing: 40px;                                               }
+.spceBetweenWords50px           { word-spacing: 50px;                                               }
+.spceBetweenWords60px           { word-spacing: 60px;                                               }
+.spceBetweenWords70px           { word-spacing: 70px;                                               }
+.spceBetweenWords80px           { word-spacing: 80px;                                               }
+.spceBetweenWords90px           { word-spacing: 90px;                                               }
+.spceBetweenWords100px          { word-spacing: 100px;                                              }
+
+/***************************************************************************************************
+*   Space between chars
+***************************************************************************************************/
+.spceBetweenCharsNormal         { letter-spacing: normal;                                           }
+    
+.spceBetweenChars0px            { letter-spacing: 0px;                                              }
+.spceBetweenChars1px            { letter-spacing: 1px;                                              }
+.spceBetweenChars2px            { letter-spacing: 2px;                                              }
+.spceBetweenChars3px            { letter-spacing: 3px;                                              }
+.spceBetweenChars4px            { letter-spacing: 4px;                                              }
+.spceBetweenChars5px            { letter-spacing: 5px;                                              }
+.spceBetweenChars6px            { letter-spacing: 6px;                                              }
+.spceBetweenChars7px            { letter-spacing: 7px;                                              }
+.spceBetweenChars8px            { letter-spacing: 8px;                                              }
+.spceBetweenChars9px            { letter-spacing: 9px;                                              }
+.spceBetweenChars10px           { letter-spacing: 10px;                                             }
+.spceBetweenChars20px           { letter-spacing: 20px;                                             }
+.spceBetweenChars30px           { letter-spacing: 30px;                                             }
+.spceBetweenChars40px           { letter-spacing: 40px;                                             }
+.spceBetweenChars50px           { letter-spacing: 50px;                                             }
+.spceBetweenChars60px           { letter-spacing: 60px;                                             }
+.spceBetweenChars70px           { letter-spacing: 70px;                                             }
+.spceBetweenChars80px           { letter-spacing: 80px;                                             }
+.spceBetweenChars90px           { letter-spacing: 90px;                                             }
+.spceBetweenChars100px          { letter-spacing: 100px;                                            }
+
+
+
+/***************************************************************************************************
+*   The behaviour of the 'space'
+***************************************************************************************************/
+.whiteSpceIsIgnored             { white-space: normal;                                              }
+.whitespceIsTreatedAsPreTag     { white-space: pre;                                                 }
+.whitespceIsNotWraping          { white-space: nowrap;                                              }

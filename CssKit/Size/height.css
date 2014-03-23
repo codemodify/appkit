@@ -1,0 +1,170 @@
+
+/***************************************************************************************************
+*   Height
+***************************************************************************************************/
+.sizeHeightAuto                     { height: auto;                                                 }
+
+.sizeHeight0px                      { height: 0px;                                                  }
+.sizeHeight1px                      { height: 1px;                                                  }
+.sizeHeight2px                      { height: 2px;                                                  }
+.sizeHeight3px                      { height: 3px;                                                  }
+.sizeHeight4px                      { height: 4px;                                                  }
+.sizeHeight5px                      { height: 5px;                                                  }
+.sizeHeight6px                      { height: 6px;                                                  }
+.sizeHeight7px                      { height: 7px;                                                  }
+.sizeHeight8px                      { height: 8px;                                                  }
+.sizeHeight9px                      { height: 9px;                                                  }
+.sizeHeight10px                     { height: 10px;                                                 }
+.sizeHeight20px                     { height: 20px;                                                 }
+.sizeHeight30px                     { height: 30px;                                                 }
+.sizeHeight40px                     { height: 40px;                                                 }
+.sizeHeight50px                     { height: 50px;                                                 }
+.sizeHeight60px                     { height: 60px;                                                 }
+.sizeHeight70px                     { height: 70px;                                                 }
+.sizeHeight80px                     { height: 80px;                                                 }
+.sizeHeight90px                     { height: 90px;                                                 }
+.sizeHeight100px                    { height: 100px;                                                }
+.sizeHeight200px                    { height: 200px;                                                }
+.sizeHeight300px                    { height: 300px;                                                }
+.sizeHeight400px                    { height: 400px;                                                }
+.sizeHeight500px                    { height: 500px;                                                }
+.sizeHeight600px                    { height: 600px;                                                }
+.sizeHeight700px                    { height: 700px;                                                }
+.sizeHeight800px                    { height: 800px;                                                }
+.sizeHeight900px                    { height: 900px;                                                }
+.sizeHeight1000px                   { height: 1000px;                                               }
+
+.sizeHeight5p                       { height: 5%;                                                   }
+.sizeHeight10p                      { height: 10%;                                                  }
+.sizeHeight15p                      { height: 15%;                                                  }
+.sizeHeight20p                      { height: 20%;                                                  }
+.sizeHeight25p                      { height: 25%;                                                  }
+.sizeHeight30p                      { height: 30%;                                                  }
+.sizeHeight35p                      { height: 35%;                                                  }
+.sizeHeight40p                      { height: 40%;                                                  }
+.sizeHeight45p                      { height: 45%;                                                  }
+.sizeHeight50p                      { height: 50%;                                                  }
+.sizeHeight55p                      { height: 55%;                                                  }
+.sizeHeight60p                      { height: 60%;                                                  }
+.sizeHeight65p                      { height: 65%;                                                  }
+.sizeHeight70p                      { height: 70%;                                                  }
+.sizeHeight75p                      { height: 75%;                                                  }
+.sizeHeight80p                      { height: 80%;                                                  }
+.sizeHeight85p                      { height: 85%;                                                  }
+.sizeHeight90p                      { height: 90%;                                                  }
+.sizeHeight95p                      { height: 95%;                                                  }
+.sizeHeight100p                     { height: 100%;                                                 }
+
+
+
+/***************************************************************************************************
+*   MaxHeight
+***************************************************************************************************/
+.sizeHeightMaxNone                  { max-height: none                                              }
+
+.sizeHeightMax0px                   { max-height: 0px;                                              }
+.sizeHeightMax1px                   { max-height: 1px;                                              }
+.sizeHeightMax2px                   { max-height: 2px;                                              }
+.sizeHeightMax3px                   { max-height: 3px;                                              }
+.sizeHeightMax4px                   { max-height: 4px;                                              }
+.sizeHeightMax5px                   { max-height: 5px;                                              }
+.sizeHeightMax6px                   { max-height: 6px;                                              }
+.sizeHeightMax7px                   { max-height: 7px;                                              }
+.sizeHeightMax8px                   { max-height: 8px;                                              }
+.sizeHeightMax9px                   { max-height: 9px;                                              }
+.sizeHeightMax10px                  { max-height: 10px;                                             }
+.sizeHeightMax20px                  { max-height: 20px;                                             }
+.sizeHeightMax30px                  { max-height: 30px;                                             }
+.sizeHeightMax40px                  { max-height: 40px;                                             }
+.sizeHeightMax50px                  { max-height: 50px;                                             }
+.sizeHeightMax60px                  { max-height: 60px;                                             }
+.sizeHeightMax70px                  { max-height: 70px;                                             }
+.sizeHeightMax80px                  { max-height: 80px;                                             }
+.sizeHeightMax90px                  { max-height: 90px;                                             }
+.sizeHeightMax100px                 { max-height: 100px;                                            }
+.sizeHeightMax200px                 { max-height: 200px;                                            }
+.sizeHeightMax300px                 { max-height: 300px;                                            }
+.sizeHeightMax400px                 { max-height: 400px;                                            }
+.sizeHeightMax500px                 { max-height: 500px;                                            }
+.sizeHeightMax600px                 { max-height: 600px;                                            }
+.sizeHeightMax700px                 { max-height: 700px;                                            }
+.sizeHeightMax800px                 { max-height: 800px;                                            }
+.sizeHeightMax900px                 { max-height: 900px;                                            }
+.sizeHeightMax1000px                { max-height: 1000px;                                           }
+
+.sizeHeightMax5p                    { max-height: 5%;                                               }
+.sizeHeightMax10p                   { max-height: 10%;                                              }
+.sizeHeightMax15p                   { max-height: 15%;                                              }
+.sizeHeightMax20p                   { max-height: 20%;                                              }
+.sizeHeightMax25p                   { max-height: 25%;                                              }
+.sizeHeightMax30p                   { max-height: 30%;                                              }
+.sizeHeightMax35p                   { max-height: 35%;                                              }
+.sizeHeightMax40p                   { max-height: 40%;                                              }
+.sizeHeightMax45p                   { max-height: 45%;                                              }
+.sizeHeightMax50p                   { max-height: 50%;                                              }
+.sizeHeightMax55p                   { max-height: 55%;                                              }
+.sizeHeightMax60p                   { max-height: 60%;                                              }
+.sizeHeightMax65p                   { max-height: 65%;                                              }
+.sizeHeightMax70p                   { max-height: 70%;                                              }
+.sizeHeightMax75p                   { max-height: 75%;                                              }
+.sizeHeightMax80p                   { max-height: 80%;                                              }
+.sizeHeightMax85p                   { max-height: 85%;                                              }
+.sizeHeightMax90p                   { max-height: 90%;                                              }
+.sizeHeightMax95p                   { max-height: 95%;                                              }
+.sizeHeightMax100p                  { max-height: 100%;                                             }
+
+
+
+/***************************************************************************************************
+*   MinHeight
+***************************************************************************************************/
+.sizeHeightMin0px                   { min-height: 0px;                                              }
+.sizeHeightMin1px                   { min-height: 1px;                                              }
+.sizeHeightMin2px                   { min-height: 2px;                                              }
+.sizeHeightMin3px                   { min-height: 3px;                                              }
+.sizeHeightMin4px                   { min-height: 4px;                                              }
+.sizeHeightMin5px                   { min-height: 5px;                                              }
+.sizeHeightMin6px                   { min-height: 6px;                                              }
+.sizeHeightMin7px                   { min-height: 7px;                                              }
+.sizeHeightMin8px                   { min-height: 8px;                                              }
+.sizeHeightMin9px                   { min-height: 9px;                                              }
+.sizeHeightMin10px                  { min-height: 10px;                                             }
+.sizeHeightMin20px                  { min-height: 20px;                                             }
+.sizeHeightMin30px                  { min-height: 30px;                                             }
+.sizeHeightMin40px                  { min-height: 40px;                                             }
+.sizeHeightMin50px                  { min-height: 50px;                                             }
+.sizeHeightMin60px                  { min-height: 60px;                                             }
+.sizeHeightMin70px                  { min-height: 70px;                                             }
+.sizeHeightMin80px                  { min-height: 80px;                                             }
+.sizeHeightMin90px                  { min-height: 90px;                                             }
+.sizeHeightMin100px                 { min-height: 100px;                                            }
+.sizeHeightMin200px                 { min-height: 200px;                                            }
+.sizeHeightMin300px                 { min-height: 300px;                                            }
+.sizeHeightMin400px                 { min-height: 400px;                                            }
+.sizeHeightMin500px                 { min-height: 500px;                                            }
+.sizeHeightMin600px                 { min-height: 600px;                                            }
+.sizeHeightMin700px                 { min-height: 700px;                                            }
+.sizeHeightMin800px                 { min-height: 800px;                                            }
+.sizeHeightMin900px                 { min-height: 900px;                                            }
+.sizeHeightMin1000px                { min-height: 1000px;                                           }
+
+.sizeHeightMin5p                    { min-height: 5%;                                               }
+.sizeHeightMin10p                   { min-height: 10%;                                              }
+.sizeHeightMin15p                   { min-height: 15%;                                              }
+.sizeHeightMin20p                   { min-height: 20%;                                              }
+.sizeHeightMin25p                   { min-height: 25%;                                              }
+.sizeHeightMin30p                   { min-height: 30%;                                              }
+.sizeHeightMin35p                   { min-height: 35%;                                              }
+.sizeHeightMin40p                   { min-height: 40%;                                              }
+.sizeHeightMin45p                   { min-height: 45%;                                              }
+.sizeHeightMin50p                   { min-height: 50%;                                              }
+.sizeHeightMin55p                   { min-height: 55%;                                              }
+.sizeHeightMin60p                   { min-height: 60%;                                              }
+.sizeHeightMin65p                   { min-height: 65%;                                              }
+.sizeHeightMin70p                   { min-height: 70%;                                              }
+.sizeHeightMin75p                   { min-height: 75%;                                              }
+.sizeHeightMin80p                   { min-height: 80%;                                              }
+.sizeHeightMin85p                   { min-height: 85%;                                              }
+.sizeHeightMin90p                   { min-height: 90%;                                              }
+.sizeHeightMin95p                   { min-height: 95%;                                              }
+.sizeHeightMin100p                  { min-height: 100%;                                             }

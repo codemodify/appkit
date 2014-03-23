@@ -1,0 +1,128 @@
+
+/***************************************************************************************************
+*   Top
+***************************************************************************************************/
+.paddingTop0px           { padding-top: 0px;                                                        }
+.paddingTop1px           { padding-top: 1px;                                                        }
+.paddingTop2px           { padding-top: 2px;                                                        }
+.paddingTop3px           { padding-top: 3px;                                                        }
+.paddingTop4px           { padding-top: 4px;                                                        }
+.paddingTop5px           { padding-top: 5px;                                                        }
+.paddingTop6px           { padding-top: 6px;                                                        }
+.paddingTop7px           { padding-top: 7px;                                                        }
+.paddingTop8px           { padding-top: 8px;                                                        }
+.paddingTop9px           { padding-top: 9px;                                                        }
+.paddingTop10px          { padding-top: 10px;                                                       }
+.paddingTop20px          { padding-top: 20px;                                                       }
+.paddingTop30px          { padding-top: 30px;                                                       }
+.paddingTop40px          { padding-top: 40px;                                                       }
+.paddingTop50px          { padding-top: 50px;                                                       }
+
+.paddingTop5p            { padding-top: 5%;                                                         }
+.paddingTop10p           { padding-top: 10%;                                                        }
+.paddingTop15p           { padding-top: 15%;                                                        }
+.paddingTop20p           { padding-top: 20%;                                                        }
+.paddingTop25p           { padding-top: 25%;                                                        }
+.paddingTop30p           { padding-top: 30%;                                                        }
+.paddingTop35p           { padding-top: 35%;                                                        }
+.paddingTop40p           { padding-top: 40%;                                                        }
+.paddingTop45p           { padding-top: 45%;                                                        }
+.paddingTop50p           { padding-top: 50%;                                                        }
+
+
+
+/***************************************************************************************************
+*   Bottom
+***************************************************************************************************/
+.paddingBottom0px        { padding-bottom: 0px;                                                     }
+.paddingBottom1px        { padding-bottom: 1px;                                                     }
+.paddingBottom2px        { padding-bottom: 2px;                                                     }
+.paddingBottom3px        { padding-bottom: 3px;                                                     }
+.paddingBottom4px        { padding-bottom: 4px;                                                     }
+.paddingBottom5px        { padding-bottom: 5px;                                                     }
+.paddingBottom6px        { padding-bottom: 6px;                                                     }
+.paddingBottom7px        { padding-bottom: 7px;                                                     }
+.paddingBottom8px        { padding-bottom: 8px;                                                     }
+.paddingBottom9px        { padding-bottom: 9px;                                                     }
+.paddingBottom10px       { padding-bottom: 10px;                                                    }
+.paddingBottom20px       { padding-bottom: 20px;                                                    }
+.paddingBottom30px       { padding-bottom: 30px;                                                    }
+.paddingBottom40px       { padding-bottom: 40px;                                                    }
+.paddingBottom50px       { padding-bottom: 50px;                                                    }
+
+.paddingBottom5p         { padding-bottom: 5%;                                                      }
+.paddingBottom10p        { padding-bottom: 10%;                                                     }
+.paddingBottom15p        { padding-bottom: 15%;                                                     }
+.paddingBottom20p        { padding-bottom: 20%;                                                     }
+.paddingBottom25p        { padding-bottom: 25%;                                                     }
+.paddingBottom30p        { padding-bottom: 30%;                                                     }
+.paddingBottom35p        { padding-bottom: 35%;                                                     }
+.paddingBottom40p        { padding-bottom: 40%;                                                     }
+.paddingBottom45p        { padding-bottom: 45%;                                                     }
+.paddingBottom50p        { padding-bottom: 50%;                                                     }
+
+
+
+/***************************************************************************************************
+*   Left
+***************************************************************************************************/
+.paddingLeft0px          { padding-left: 0px;                                                       }
+.paddingLeft1px          { padding-left: 1px;                                                       }
+.paddingLeft2px          { padding-left: 2px;                                                       }
+.paddingLeft3px          { padding-left: 3px;                                                       }
+.paddingLeft4px          { padding-left: 4px;                                                       }
+.paddingLeft5px          { padding-left: 5px;                                                       }
+.paddingLeft6px          { padding-left: 6px;                                                       }
+.paddingLeft7px          { padding-left: 7px;                                                       }
+.paddingLeft8px          { padding-left: 8px;                                                       }
+.paddingLeft9px          { padding-left: 9px;                                                       }
+.paddingLeft10px         { padding-left: 10px;                                                      }
+.paddingLeft20px         { padding-left: 20px;                                                      }
+.paddingLeft30px         { padding-left: 30px;                                                      }
+.paddingLeft40px         { padding-left: 40px;                                                      }
+.paddingLeft50px         { padding-left: 50px;                                                      }
+
+.paddingLeft5p           { padding-left: 5%;                                                        }
+.paddingLeft10p          { padding-left: 10%;                                                       }
+.paddingLeft15p          { padding-left: 15%;                                                       }
+.paddingLeft20p          { padding-left: 20%;                                                       }
+.paddingLeft25p          { padding-left: 25%;                                                       }
+.paddingLeft30p          { padding-left: 30%;                                                       }
+.paddingLeft35p          { padding-left: 35%;                                                       }
+.paddingLeft40p          { padding-left: 40%;                                                       }
+.paddingLeft45p          { padding-left: 45%;                                                       }
+.paddingLeft50p          { padding-left: 50%;                                                       }
+
+
+
+/***************************************************************************************************
+*   Right
+***************************************************************************************************/
+.paddingRight0px         { padding-right: 0px;                                                      }
+.paddingRight1px         { padding-right: 1px;                                                      }
+.paddingRight2px         { padding-right: 2px;                                                      }
+.paddingRight3px         { padding-right: 3px;                                                      }
+.paddingRight4px         { padding-right: 4px;                                                      }
+.paddingRight5px         { padding-right: 5px;                                                      }
+.paddingRight6px         { padding-right: 6px;                                                      }
+.paddingRight7px         { padding-right: 7px;                                                      }
+.paddingRight8px         { padding-right: 8px;                                                      }
+.paddingRight9px         { padding-right: 9px;                                                      }
+.paddingRight10px        { padding-right: 10px;                                                     }
+.paddingRight20px        { padding-right: 20px;                                                     }
+.paddingRight30px        { padding-right: 30px;                                                     }
+.paddingRight40px        { padding-right: 40px;                                                     }
+.paddingRight50px        { padding-right: 50px;                                                     }
+
+.paddingRight5p          { padding-right: 5%;                                                       }
+.paddingRight10p         { padding-right: 10%;                                                      }
+.paddingRight15p         { padding-right: 15%;                                                      }
+.paddingRight20p         { padding-right: 20%;                                                      }
+.paddingRight25p         { padding-right: 25%;                                                      }
+.paddingRight30p         { padding-right: 30%;                                                      }
+.paddingRight35p         { padding-right: 35%;                                                      }
+.paddingRight40p         { padding-right: 40%;                                                      }
+.paddingRight45p         { padding-right: 45%;                                                      }
+.paddingRight50p         { padding-right: 50%;                                                      }
+
+

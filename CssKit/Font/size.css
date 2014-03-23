@@ -1,0 +1,54 @@
+
+.fontSizeUltraSmall         { font-size: xx-small;                                                  }
+.fontSizeVerySmall          { font-size: x-small;                                                   }
+.fontSizeSmaller            { font-size: smaller;                                                   }
+.fontSizeSmall              { font-size: small;                                                     }
+
+.fontSizeMedium             { font-size: medium;                                                    }
+
+.fontSizeLarge              { font-size: large;                                                     }
+.fontSizeLarger             { font-size: larger;                                                    }
+.fontSizeVeryLarge          { font-size: x-large;                                                   }
+.fontSizeUltraLarge         { font-size: xx-large;                                                  }
+
+.fontSize0px                { line-height: 0px;                                                     }
+.fontSize1px                { line-height: 1px;                                                     }
+.fontSize2px                { line-height: 2px;                                                     }
+.fontSize3px                { line-height: 3px;                                                     }
+.fontSize4px                { line-height: 4px;                                                     }
+.fontSize5px                { line-height: 5px;                                                     }
+.fontSize6px                { line-height: 6px;                                                     }
+.fontSize7px                { line-height: 7px;                                                     }
+.fontSize8px                { line-height: 8px;                                                     }
+.fontSize9px                { line-height: 9px;                                                     }
+.fontSize10px               { line-height: 10px;                                                    }
+.fontSize20px               { line-height: 20px;                                                    }
+.fontSize30px               { line-height: 30px;                                                    }
+.fontSize40px               { line-height: 40px;                                                    }
+.fontSize50px               { line-height: 50px;                                                    }
+.fontSize60px               { line-height: 60px;                                                    }
+.fontSize70px               { line-height: 70px;                                                    }
+.fontSize80px               { line-height: 80px;                                                    }
+.fontSize90px               { line-height: 90px;                                                    }
+.fontSize100px              { line-height: 100px;                                                   }
+
+.fontSize5p                 { line-height: 5%;                                                      }
+.fontSize10p                { line-height: 10%;                                                     }
+.fontSize15p                { line-height: 15%;                                                     }
+.fontSize20p                { line-height: 20%;                                                     }
+.fontSize25p                { line-height: 25%;                                                     }
+.fontSize30p                { line-height: 30%;                                                     }
+.fontSize35p                { line-height: 35%;                                                     }
+.fontSize40p                { line-height: 40%;                                                     }
+.fontSize45p                { line-height: 45%;                                                     }
+.fontSize50p                { line-height: 50%;                                                     }
+.fontSize55p                { line-height: 55%;                                                     }
+.fontSize60p                { line-height: 60%;                                                     }
+.fontSize65p                { line-height: 65%;                                                     }
+.fontSize70p                { line-height: 70%;                                                     }
+.fontSize75p                { line-height: 75%;                                                     }
+.fontSize80p                { line-height: 80%;                                                     }
+.fontSize85p                { line-height: 85%;                                                     }
+.fontSize90p                { line-height: 90%;                                                     }
+.fontSize95p                { line-height: 95%;                                                     }
+.fontSize100p               { line-height: 100%;                                                    }

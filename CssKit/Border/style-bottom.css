@@ -1,0 +1,11 @@
+
+.borderBottomStyleNone                    { border-bottom-style: none;                                           }
+.borderBottomStyleHidden                  { border-bottom-style: hidden;                                         }
+.borderBottomStyleDotted                  { border-bottom-style: dotted;                                         }
+.borderBottomStyleDashed                  { border-bottom-style: dashed;                                         }
+.borderBottomStyleSolid                   { border-bottom-style: solid;                                          }
+.borderBottomStyleDouble                  { border-bottom-style: double;                                         }
+.borderBottomStyleGroove                  { border-bottom-style: groove;                                         }
+.borderBottomStyleRidge                   { border-bottom-style: ridge;                                          }
+.borderBottomStyleInset                   { border-bottom-style: inset;                                          }
+.borderBottomStyleOutset                  { border-bottom-style: outset;                                         }
