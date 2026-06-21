@@ -1,0 +1,4 @@
+- Skia
+- Cairo (GTK3) / GSK+Vulkan/GL (GTK4)
+- QPainter (Qt Widgets) / scene graph (Qt Quick)
+- Minimal own drawing (X11/GDI/Quartz primitives)
