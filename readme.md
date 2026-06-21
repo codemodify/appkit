@@ -8,9 +8,9 @@ appkit-desktop-web* provides system tray icon + menu
 
 project														| notes											| progress			| similar to
 ----														|----											|----				|----
-github.com/codemodify/appkit-desktop-web					| spec + driver of the thin/fat deployments		| ########## (100%)	|
-github.com/codemodify/appkit-desktop-web-thin				| uses OS provided browser, 10MB binary			| ########## (100%)	| Tauri, Wails, Pake, Energy
-github.com/codemodify/appkit-desktop-web-fat				| carries chromium, 200MB binary				| #####.....		| Electron
+github.com/codemodify/appkit-desktop-web					| spec + driver of the thin/fat deployments		| ########## 		|
+github.com/codemodify/appkit-desktop-web-thin				| uses OS provided browser, 10MB binary			| ########## 		| Tauri, Wails, Pake, Energy
+github.com/codemodify/appkit-desktop-web-fat				| carries chromium, 200MB binary				| #####				| Electron
 
 
 
